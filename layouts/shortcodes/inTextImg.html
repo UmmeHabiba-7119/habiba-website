@@ -1,0 +1,6 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "image" }}
+
+<div class="in-text-image">
+    <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy">
+</div>
