@@ -2,7 +2,7 @@
 title: "Skills"
 ---
 
-# Skills
+# Prograaming Skills
 
 - C
 - C++
