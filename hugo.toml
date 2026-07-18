@@ -11,7 +11,7 @@ defaultTheme = "light"
 ShowReadingTime = false
 ShowShareButtons = false
 ShowBreadCrumbs = false
-ShowCodeCopyButtons = false
+ShowCodeCopyButtons = true
 ShowToc = false
 
 [params.profileMode]
@@ -26,12 +26,20 @@ Research Interests:
 Machine Learning • Deep Learning • Remote Sensing
 """
 
-imageUrl = "profile.jpg"
+imageUrl = "/images/profile.jpg"
 imageTitle = "Umme Habiba"
 
 [[params.profileMode.buttons]]
 name = "Projects"
 url = "/projects"
+
+[[params.profileMode.buttons]]
+name = "Research"
+url = "/research"
+
+[[params.profileMode.buttons]]
+name = "Contact"
+url = "/contact"
 
 [[params.profileMode.buttons]]
 name = "About"
@@ -49,49 +57,61 @@ url = "https://linkedin.com/in/YOUR_USERNAME"
 name = "email"
 url = "mailto:YOUR_EMAIL"
 
+ShowReadingTime = false
+ShowBreadCrumbs = false
+ShowPostNavLinks = false
+ShowShareButtons = false
+ShowCodeCopyButtons = false
+
+[params.assets]
+disableFingerprinting = false
+
+[params.label]
+text = "UH Portfolio"
+
 [menu]
 
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 10
-
-[[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "/projects/"
-weight = 20
-
-[[menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
-weight = 30
+weight = 1
 
 [[menu.main]]
 identifier = "education"
 name = "Education"
 url = "/education/"
-weight = 15
+weight = 2
 
 [[menu.main]]
-identifier = "skills"
-name = "Skills"
-url = "/skills/"
-weight = 25
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 3
 
 [[menu.main]]
 identifier = "research"
 name = "Research"
 url = "/research/"
-weight = 35
+weight = 4
+
+[[menu.main]]
+identifier = "skills"
+name = "Skills"
+url = "/skills/"
+weight = 5
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 6
 
 [[menu.main]]
 identifier = "resume"
 name = "Resume"
 url = "/resume/"
-weight = 40
+weight = 7
 
 [[params.profileMode.buttons]]
 name = "Resume"

@@ -6,16 +6,22 @@ title: "Projects"
 
 ## Smart Goat Chain
 
-RFID Based Smart Goat Monitoring System.
+IoT and RFID based livestock management system.
 
 ---
 
 ## Land Surface Temperature Prediction
 
-Satellite-based LST Prediction using Machine Learning.
+Satellite image analysis using Machine Learning.
 
 ---
 
 ## Vegetation Change Detection
 
-Satellite Image Analysis using Google Earth Engine.
+Satellite-based vegetation monitoring using Google Earth Engine.
+
+---
+
+## Violence Detection
+
+Deep Learning based abnormal activity detection from video.

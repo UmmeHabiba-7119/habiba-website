@@ -32,3 +32,6 @@ Currently, I am pursuing my MSc in Computer Science and Engineering.
 - OpenCV
 - Git
 - Hugo
+
+
+I enjoy developing AI-based solutions for real-world problems and continuously explore new technologies in computer science.
