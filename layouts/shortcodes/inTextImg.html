@@ -1,6 +1,5 @@
-{{ $src := .Get "src" }}
-{{ $alt := .Get "alt" | default "image" }}
+{{- $Img := (.Get "url") }}
+{{- $height := (.Get "height") }}
+{{- $alt := (.Get "alt") }}
 
-<div class="in-text-image">
-    <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy">
-</div>
+<img class="in-text" height="{{ $height | default `15` }}" src="{{$Img}}" alt="{{$alt}}">

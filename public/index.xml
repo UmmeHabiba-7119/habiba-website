@@ -1,19 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Umme Habiba</title><link>https://UmmeHabiba-7119.github.io/habiba-website/</link><description>Recent content on Umme Habiba</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://UmmeHabiba-7119.github.io/habiba-website/index.xml" rel="self" type="application/rss+xml"/><item><title>PaperMod Installation Guide</title><link>https://UmmeHabiba-7119.github.io/habiba-website/posts/papermod/papermod-installation/</link><pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/papermod/papermod-installation/</guid><description>Step by step guide to install and update PaperMod in your Hugo site.</description></item><item><title>Markdown Syntax Guide</title><link>https://UmmeHabiba-7119.github.io/habiba-website/posts/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/markdown-syntax/</guid><description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description></item><item><title>Code Syntax Guide</title><link>https://UmmeHabiba-7119.github.io/habiba-website/posts/code_syntax/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/code_syntax/</guid><description>Sample article showcasing basic code syntax and formatting for HTML elements.</description></item><item><title>Markdown Headings</title><link>https://UmmeHabiba-7119.github.io/habiba-website/posts/inner-section/md-headings/</link><pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/inner-section/md-headings/</guid><description>&lt;h1 id="heading-1"&gt;Heading 1&lt;/h1&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description></item><item><title>Markdown Lists</title><link>https://UmmeHabiba-7119.github.io/habiba-website/posts/inner-section/md-lists/</link><pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/inner-section/md-lists/</guid><description>&lt;h2 id="markdown-lists"&gt;Markdown Lists&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Umme Habiba</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Umme Habiba</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaperMod Installation Guide</title>
+      <link>http://localhost:1313/posts/papermod/papermod-installation/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/papermod/papermod-installation/</guid>
+      <description>Step by step guide to install and update PaperMod in your Hugo site.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Code Syntax Guide</title>
+      <link>http://localhost:1313/posts/code_syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/code_syntax/</guid>
+      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Markdown Headings</title>
+      <link>http://localhost:1313/posts/inner-section/md-headings/</link>
+      <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/inner-section/md-headings/</guid>
+      <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Lists</title>
+      <link>http://localhost:1313/posts/inner-section/md-lists/</link>
+      <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/inner-section/md-lists/</guid>
+      <description>&lt;h2 id=&#34;markdown-lists&#34;&gt;Markdown Lists&lt;/h2&gt;
 &lt;p&gt;Markdown supports both ordered and unordered lists, as well as nested lists. Here&amp;rsquo;s how you can create them:&lt;/p&gt;
-&lt;h3 id="ordered-list"&gt;Ordered List&lt;/h3&gt;
+&lt;h3 id=&#34;ordered-list&#34;&gt;Ordered List&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;First item&lt;/li&gt;
 &lt;li&gt;Second item&lt;/li&gt;
 &lt;li&gt;Third item&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="unordered-list"&gt;Unordered List&lt;/h3&gt;
+&lt;h3 id=&#34;unordered-list&#34;&gt;Unordered List&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;List item&lt;/li&gt;
 &lt;li&gt;Another item&lt;/li&gt;
 &lt;li&gt;And another item&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="nested-unordered-list"&gt;Nested Unordered list&lt;/h3&gt;
+&lt;h3 id=&#34;nested-unordered-list&#34;&gt;Nested Unordered list&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Fruit
 &lt;ul&gt;
@@ -28,7 +71,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="nested-ordered-list"&gt;Nested Ordered list&lt;/h3&gt;
+&lt;h3 id=&#34;nested-ordered-list&#34;&gt;Nested Ordered list&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Fruit
 &lt;ul&gt;
@@ -43,7 +86,7 @@
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="mixed-nested-lists"&gt;Mixed Nested Lists&lt;/h3&gt;
+&lt;h3 id=&#34;mixed-nested-lists&#34;&gt;Mixed Nested Lists&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;First item
 &lt;ul&gt;
@@ -70,55 +113,104 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="list-with-paragraphs-code-blocks-and-blockquotes"&gt;List with paragraphs, code blocks, and blockquotes&lt;/h3&gt;
+&lt;h3 id=&#34;list-with-paragraphs-code-blocks-and-blockquotes&#34;&gt;List with paragraphs, code blocks, and blockquotes&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Item 1&lt;/p&gt;</description></item><item><title>Sample Markdown Blog Post</title><link>https://UmmeHabiba-7119.github.io/habiba-website/posts/inner-section/md-blog/</link><pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/inner-section/md-blog/</guid><description>&lt;h2 id="sample-markdown-blog-post"&gt;Sample Markdown Blog Post&lt;/h2&gt;
+&lt;p&gt;Item 1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sample Markdown Blog Post</title>
+      <link>http://localhost:1313/posts/inner-section/md-blog/</link>
+      <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/inner-section/md-blog/</guid>
+      <description>&lt;h2 id=&#34;sample-markdown-blog-post&#34;&gt;Sample Markdown Blog Post&lt;/h2&gt;
 &lt;p&gt;A sample blog post to test markdown rendering in PaperMod. This post includes various markdown elements such as headings, images, and code blocks. The content is meant to verify that all markdown features are displayed correctly in the theme.&lt;/p&gt;
-&lt;h3 id="sample-heading"&gt;Sample Heading&lt;/h3&gt;
+&lt;h3 id=&#34;sample-heading&#34;&gt;Sample Heading&lt;/h3&gt;
 &lt;p&gt;Knock knock. Who&amp;rsquo;s there? Lettuce. Lettuce who? Lettuce in, it&amp;rsquo;s cold out here!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Sample Image" loading="lazy" src="https://placehold.co/800x200"&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;function&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;greet&lt;/span&gt;(&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;) {
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;return&lt;/span&gt; &lt;span style="color:#e6db74"&gt;`Hello, &lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt;!`&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#a6e22e"&gt;console&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;log&lt;/span&gt;(&lt;span style="color:#a6e22e"&gt;greet&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;World&amp;#39;&lt;/span&gt;));
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;display:grid;"&gt;
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;"&gt;&lt;tr&gt;&lt;td style="vertical-align:top;padding:0;margin:0;border:0;"&gt;
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;display:grid;"&gt;&lt;code&gt;&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"&gt;1
-&lt;/span&gt;&lt;span style="background-color:#3c3d38"&gt;&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"&gt;2
-&lt;/span&gt;&lt;/span&gt;&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"&gt;3
-&lt;/span&gt;&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"&gt;4
+&lt;p&gt;&lt;img alt=&#34;Sample Image&#34; loading=&#34;lazy&#34; src=&#34;https://placehold.co/800x200&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;greet&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;`Hello, &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;!`&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;greet&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;World&amp;#39;&lt;/span&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;display:grid;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;display:grid;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
+&lt;/span&gt;&lt;span style=&#34;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;4
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%"&gt;
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;display:grid;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;def&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;greet&lt;/span&gt;(name):
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex; background-color:#3c3d38"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;return&lt;/span&gt; &lt;span style="color:#e6db74"&gt;f&lt;/span&gt;&lt;span style="color:#e6db74"&gt;&amp;#34;Hello, &lt;/span&gt;&lt;span style="color:#e6db74"&gt;{&lt;/span&gt;name&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt;!&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;print(greet(&lt;span style="color:#e6db74"&gt;&amp;#34;World&amp;#34;&lt;/span&gt;))
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;display:grid;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;greet&lt;/span&gt;(name):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex; background-color:#3c3d38&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;f&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;{&lt;/span&gt;name&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;!&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(greet(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;World&amp;#34;&lt;/span&gt;))
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id="another-heading"&gt;Another Heading&lt;/h4&gt;
+&lt;/div&gt;&lt;h4 id=&#34;another-heading&#34;&gt;Another Heading&lt;/h4&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;This is a table&lt;/th&gt;
-&lt;th&gt;With some data&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Row 1&lt;/td&gt;
-&lt;td&gt;Data 1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Row 2&lt;/td&gt;
-&lt;td&gt;Data 2&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Markdown Syntax Guide For L2</title><link>https://UmmeHabiba-7119.github.io/habiba-website/posts/markdown-syntax.fr/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/markdown-syntax.fr/</guid><description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description></item><item><title>Markdown Syntax Guide For RTL</title><link>https://UmmeHabiba-7119.github.io/habiba-website/posts/markdown-syntax.fa/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/markdown-syntax.fa/</guid><description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description></item><item><title>Rich Content and Shortcodes</title><link>https://UmmeHabiba-7119.github.io/habiba-website/posts/rich-content/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/rich-content/</guid><description>A brief description of Hugo Shortcodes</description></item><item><title>Math Typesetting</title><link>https://UmmeHabiba-7119.github.io/habiba-website/posts/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/math-typesetting/</guid><description>A brief guide to setup KaTeX</description></item><item><title>Emoji Support</title><link>https://UmmeHabiba-7119.github.io/habiba-website/posts/emoji-support/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/emoji-support/</guid><description>Guide to emoji usage in Hugo</description></item><item><title>About Me</title><link>https://UmmeHabiba-7119.github.io/habiba-website/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/about/</guid><description>&lt;h1 id="about-me"&gt;About Me&lt;/h1&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;This is a table&lt;/th&gt;
+					&lt;th&gt;With some data&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Row 1&lt;/td&gt;
+					&lt;td&gt;Data 1&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Row 2&lt;/td&gt;
+					&lt;td&gt;Data 2&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide For L2</title>
+      <link>http://localhost:1313/posts/markdown-syntax.fr/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/markdown-syntax.fr/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide For RTL</title>
+      <link>http://localhost:1313/posts/markdown-syntax.fa/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/markdown-syntax.fa/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>http://localhost:1313/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
 &lt;p&gt;Hello!&lt;/p&gt;
 &lt;p&gt;I am &lt;strong&gt;Umme Habiba&lt;/strong&gt;, a Lecturer in the Department of Computer Science and Engineering (CSE) at Daffodil International University (DIU).&lt;/p&gt;
 &lt;p&gt;Currently, I am pursuing my MSc in Computer Science and Engineering.&lt;/p&gt;
-&lt;h2 id="research-interests"&gt;Research Interests&lt;/h2&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Machine Learning&lt;/li&gt;
 &lt;li&gt;Deep Learning&lt;/li&gt;
@@ -126,51 +218,93 @@
 &lt;li&gt;Remote Sensing&lt;/li&gt;
 &lt;li&gt;Image Processing&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="programming-languages"&gt;Programming Languages&lt;/h2&gt;
+&lt;h2 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;C&lt;/li&gt;
 &lt;li&gt;C++&lt;/li&gt;
 &lt;li&gt;Java&lt;/li&gt;
 &lt;li&gt;Python&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="tools"&gt;Tools&lt;/h2&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Google Earth Engine&lt;/li&gt;
 &lt;li&gt;TensorFlow&lt;/li&gt;
 &lt;li&gt;OpenCV&lt;/li&gt;
 &lt;li&gt;Git&lt;/li&gt;
 &lt;li&gt;Hugo&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Contact</title><link>https://UmmeHabiba-7119.github.io/habiba-website/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/contact/</guid><description>&lt;h2 id="contact-information"&gt;Contact Information&lt;/h2&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
 &lt;p&gt;📧 Email:
-&lt;a href="mailto:yourmail@gmail.com"&gt;yourmail@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;mailto:yourmail@gmail.com&#34;&gt;yourmail@gmail.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;🏫 Department of Computer Science and Engineering&lt;/p&gt;
 &lt;p&gt;Daffodil International University&lt;/p&gt;
 &lt;p&gt;🌐 GitHub&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/UmmeHabiba-7119"&gt;https://github.com/UmmeHabiba-7119&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/UmmeHabiba-7119&#34;&gt;https://github.com/UmmeHabiba-7119&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;💼 LinkedIn&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://linkedin.com/in/YOUR_USERNAME"&gt;https://linkedin.com/in/YOUR_USERNAME&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Education</title><link>https://UmmeHabiba-7119.github.io/habiba-website/education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/education/</guid><description>&lt;h1 id="education"&gt;Education&lt;/h1&gt;
-&lt;h3 id="msc-in-computer-science-and-engineering"&gt;MSc in Computer Science and Engineering&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://linkedin.com/in/YOUR_USERNAME&#34;&gt;https://linkedin.com/in/YOUR_USERNAME&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/education/</guid>
+      <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;h3 id=&#34;msc-in-computer-science-and-engineering&#34;&gt;MSc in Computer Science and Engineering&lt;/h3&gt;
 &lt;p&gt;Daffodil International University&lt;/p&gt;
-&lt;h3 id="bsc-in-computer-science-and-engineering"&gt;BSc in Computer Science and Engineering&lt;/h3&gt;
-&lt;p&gt;Daffodil International University&lt;/p&gt;</description></item><item><title>Projects</title><link>https://UmmeHabiba-7119.github.io/habiba-website/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/projects/</guid><description>&lt;h1 id="academic-projects"&gt;Academic Projects&lt;/h1&gt;
-&lt;h2 id="smart-goat-chain"&gt;Smart Goat Chain&lt;/h2&gt;
+&lt;h3 id=&#34;bsc-in-computer-science-and-engineering&#34;&gt;BSc in Computer Science and Engineering&lt;/h3&gt;
+&lt;p&gt;Daffodil International University&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;academic-projects&#34;&gt;Academic Projects&lt;/h1&gt;
+&lt;h2 id=&#34;smart-goat-chain&#34;&gt;Smart Goat Chain&lt;/h2&gt;
 &lt;p&gt;RFID Based Smart Goat Monitoring System.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id="land-surface-temperature-prediction"&gt;Land Surface Temperature Prediction&lt;/h2&gt;
+&lt;h2 id=&#34;land-surface-temperature-prediction&#34;&gt;Land Surface Temperature Prediction&lt;/h2&gt;
 &lt;p&gt;Satellite-based LST Prediction using Machine Learning.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id="vegetation-change-detection"&gt;Vegetation Change Detection&lt;/h2&gt;
-&lt;p&gt;Satellite Image Analysis using Google Earth Engine.&lt;/p&gt;</description></item><item><title>Research</title><link>https://UmmeHabiba-7119.github.io/habiba-website/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/research/</guid><description>&lt;h1 id="research-interests"&gt;Research Interests&lt;/h1&gt;
+&lt;h2 id=&#34;vegetation-change-detection&#34;&gt;Vegetation Change Detection&lt;/h2&gt;
+&lt;p&gt;Satellite Image Analysis using Google Earth Engine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h1 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Machine Learning&lt;/li&gt;
 &lt;li&gt;Deep Learning&lt;/li&gt;
 &lt;li&gt;Computer Vision&lt;/li&gt;
 &lt;li&gt;Remote Sensing&lt;/li&gt;
 &lt;li&gt;Satellite Image Analysis&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Resume</title><link>https://UmmeHabiba-7119.github.io/habiba-website/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/resume/</guid><description>&lt;h1 id="resume"&gt;Resume&lt;/h1&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h1 id=&#34;resume&#34;&gt;Resume&lt;/h1&gt;
 &lt;p&gt;Upload your CV PDF later.&lt;/p&gt;
 &lt;p&gt;Example:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://UmmeHabiba-7119.github.io/habiba-website/cv.pdf"&gt;Download CV&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Skills</title><link>https://UmmeHabiba-7119.github.io/habiba-website/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://UmmeHabiba-7119.github.io/habiba-website/skills/</guid><description>&lt;h1 id="skills"&gt;Skills&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/cv.pdf&#34;&gt;Download CV&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;C&lt;/li&gt;
 &lt;li&gt;C++&lt;/li&gt;
@@ -184,4 +318,7 @@
 &lt;li&gt;OpenCV&lt;/li&gt;
 &lt;li&gt;Google Earth Engine&lt;/li&gt;
 &lt;li&gt;Git&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
