@@ -12,6 +12,7 @@ title: "Skills"
 - CSS
 - JavaScript
 - Machine Learning
+- Image Processing
 - Deep Learning
 - OpenCV
 - Google Earth Engine
