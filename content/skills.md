@@ -2,18 +2,25 @@
 title: "Skills"
 ---
 
-# Prograaming Skills
+# Technical Skills
 
+### Programming
+
+- Python
 - C
 - C++
 - Java
-- Python
-- HTML
-- CSS
-- JavaScript
+
+### Artificial Intelligence
+
 - Machine Learning
-- Image Processing
 - Deep Learning
-- OpenCV
+- Computer Vision
+
+### Tools
+
 - Google Earth Engine
+- OpenCV
+- TensorFlow
 - Git
+- Hugo

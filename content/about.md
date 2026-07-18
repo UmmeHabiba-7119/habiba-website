@@ -2,36 +2,31 @@
 title: "About Me"
 ---
 
-# About Me
+# Hello, I'm Umme Habiba 👋
 
-Hello!
+I am a Lecturer in the Department of Computer Science and Engineering at Daffodil International University.
 
-I am **Umme Habiba**, a Lecturer in the Department of Computer Science and Engineering (CSE) at Daffodil International University (DIU).
+I am currently pursuing my MSc in Computer Science and Engineering.
 
-Currently, I am pursuing my MSc in Computer Science and Engineering.
-
-## Research Interests
+## My Research Interests
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - Remote Sensing
-- Image Processing
+- Satellite Image Processing
 
-## Programming Languages
+## Technical Skills
 
-- C
+- Python
 - C++
 - Java
-- Python
-
-## Tools
-
-- Google Earth Engine
-- TensorFlow
 - OpenCV
+- TensorFlow
+- Google Earth Engine
 - Git
 - Hugo
 
+## Career Goal
 
-I enjoy developing AI-based solutions for real-world problems and continuously explore new technologies in computer science.
+My goal is to conduct impactful research in Artificial Intelligence and Computer Vision while contributing to quality education.

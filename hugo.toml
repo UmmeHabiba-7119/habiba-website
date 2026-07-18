@@ -30,17 +30,20 @@ imageUrl = "/images/profile.jpg"
 imageTitle = "Umme Habiba"
 
 [[params.profileMode.buttons]]
+name = "About Me"
+url = "/about"
+
+[[params.profileMode.buttons]]
 name = "Projects"
-url = "/projects/"
+url = "/projects"
 
 [[params.profileMode.buttons]]
 name = "Research"
-url = "/research/"
-
+url = "/research"
 
 [[params.profileMode.buttons]]
-name = "About"
-url = "/about/"
+name = "Resume"
+url = "/resume"
 
 [[params.socialIcons]]
 name = "github"
@@ -69,46 +72,52 @@ text = "UH Portfolio"
 [menu]
 
 [[menu.main]]
+identifier="about"
+name="About"
+url="/about/"
+weight=1
+
+[[menu.main]]
+identifier="education"
+name="Education"
+url="/education/"
+weight=2
+
+[[menu.main]]
+identifier="experience"
+name="Experience"
+url="/experience/"
+weight=3
+
+[[menu.main]]
+identifier="skills"
+name="Skills"
+url="/skills/"
+weight=4
+
+[[menu.main]]
+identifier="research"
+name="Research"
+url="/research/"
+weight=5
+
+[[menu.main]]
+identifier="projects"
+name="Projects"
+url="/projects/"
+weight=6
+
+[[menu.main]]
+identifier="contact"
+name="Contact"
+url="/contact/"
+weight=7
+
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 1
-
-[[menu.main]]
-identifier = "education"
-name = "Education"
-url = "/education/"
-weight = 2
-
-[[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "/projects/"
-weight = 3
-
-[[menu.main]]
-identifier = "research"
-name = "Research"
-url = "/research/"
-weight = 4
-
-[[menu.main]]
-identifier = "skills"
-name = "Skills"
-url = "/skills/"
-weight = 5
-
-[[menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
-weight = 6
-
-[[menu.main]]
-identifier = "resume"
-name = "Resume"
-url = "/resume/"
-weight = 7
+weight = 8
 
 [[params.profileMode.buttons]]
 name = "Resume"
