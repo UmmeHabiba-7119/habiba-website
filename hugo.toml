@@ -26,7 +26,7 @@ Research Interests:
 Machine Learning • Deep Learning • Remote Sensing
 """
 
-imageUrl = "profile.jpg"
+imageUrl = "/images/profile.jpg"
 imageTitle = "Umme Habiba"
 
 [[params.profileMode.buttons]]
@@ -35,15 +35,15 @@ url = "/about/"
 
 [[params.profileMode.buttons]]
 name = "Projects"
-url = "/habiba-website/projects/"
+url = "/projects/"
 
 [[params.profileMode.buttons]]
 name = "Research"
-url = "/habiba-website/research/"
+url = "/research/"
 
 [[params.profileMode.buttons]]
 name = "Resume"
-url = "/habiba-website/resume/"
+url = "/resume/"
 
 [[params.socialIcons]]
 name = "github"
@@ -112,7 +112,3 @@ identifier="contact"
 name="Contact"
 url="/contact/"
 weight=7
-
-[[params.profileMode.buttons]]
-name = "Resume"
-url = "/resume"
