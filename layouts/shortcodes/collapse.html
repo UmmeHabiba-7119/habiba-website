@@ -1,0 +1,8 @@
+<details>
+<summary>{{ .Get "title" | default "Click to expand" }}</summary>
+
+<div>
+{{ .Inner | markdownify }}
+</div>
+
+</details>
