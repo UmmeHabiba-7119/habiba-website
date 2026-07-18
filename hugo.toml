@@ -26,12 +26,12 @@ Research Interests:
 Machine Learning • Deep Learning • Remote Sensing
 """
 
-imageUrl = "/profile.jpg"
+imageUrl = "profile.jpg"
 imageTitle = "Umme Habiba"
 
 [[params.profileMode.buttons]]
 name = "About Me"
-url = "/habiba-website/about/"
+url = "/about/"
 
 [[params.profileMode.buttons]]
 name = "Projects"
