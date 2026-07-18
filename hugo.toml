@@ -31,19 +31,16 @@ imageTitle = "Umme Habiba"
 
 [[params.profileMode.buttons]]
 name = "Projects"
-url = "/projects"
+url = "/projects/"
 
 [[params.profileMode.buttons]]
 name = "Research"
-url = "/research"
+url = "/research/"
 
-[[params.profileMode.buttons]]
-name = "Contact"
-url = "/contact"
 
 [[params.profileMode.buttons]]
 name = "About"
-url = "/about"
+url = "/about/"
 
 [[params.socialIcons]]
 name = "github"
