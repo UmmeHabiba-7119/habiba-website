@@ -291,3 +291,41 @@ grid-template-columns:1fr;
 }
 
 }
+
+/* ==========================
+   HERO CONTENT
+========================== */
+
+.home-info{
+
+    text-align:center;
+
+    margin-top:10px;
+
+}
+
+.hero-subtitle{
+
+    font-size:1.25rem;
+
+    color:var(--secondary);
+
+    margin-top:15px;
+
+    line-height:1.9;
+
+}
+
+.hero-description{
+
+    margin:30px auto;
+
+    max-width:850px;
+
+    font-size:1.15rem;
+
+    line-height:2;
+
+    color:var(--secondary);
+
+}
