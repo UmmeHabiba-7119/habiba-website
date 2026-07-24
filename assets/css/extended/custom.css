@@ -50,17 +50,14 @@
     transform: scale(1.3);
 }
 
-/* ===== Buttons ===== */
+/* ================= Buttons ================= */
 
 .profile .buttons{
-    display:flex;
-    flex-wrap:wrap;
+    display:grid;
+    grid-template-columns:repeat(2, 220px);
+    gap:18px;
     justify-content:center;
-    gap:14px;
-    margin-top:32px;
-    max-width:520px;      /* 2 buttons per row */
-    margin-left:auto;
-    margin-right:auto;
+    margin-top:35px;
 }
 
 .profile .buttons a{
@@ -68,19 +65,27 @@
     align-items:center;
     justify-content:center;
 
-    width:240px;          /* fixed width */
-    height:54px;          /* smaller height */
+    height:52px;
+    padding:0 18px;
 
-    font-size:16px;       /* smaller text */
-    font-weight:600;
+    background:#383838;
+
+    color:#fff;
 
     border-radius:14px;
-    background:#404040;
+
+    font-size:17px;
+    font-weight:600;
 
     transition:.25s;
+
+    box-shadow:0 8px 22px rgba(0,0,0,.18);
+
+    white-space:nowrap;
 }
 
 .profile .buttons a:hover{
     background:#2563eb;
-    transform:translateY(-2px);
+    transform:translateY(-3px);
+    box-shadow:0 12px 28px rgba(37,99,235,.35);
 }
