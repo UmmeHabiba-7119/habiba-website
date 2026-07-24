@@ -22,23 +22,22 @@ Lecturer, Department of Computer Science & Engineering
 
 Daffodil International University
 
-Research Interests:
-Machine Learning • Deep Learning • Remote Sensing
+Machine Learning • Deep Learning • Remote Sensing • Computer Vision
 """
 
 imageUrl = "images/profile.jpg"
 imageTitle = "Umme Habiba"
 
 [[params.profileMode.buttons]]
-name = "About Me"
+name = "👩 About Me"
 url = "about"
 
 [[params.profileMode.buttons]]
-name = "Projects"
+name = "📂 Projects"
 url = "projects"
 
 [[params.profileMode.buttons]]
-name = "Research"
+name = "🔬 Research"
 url = "research"
 
 [[params.profileMode.buttons]]
