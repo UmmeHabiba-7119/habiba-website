@@ -1,9 +1,31 @@
-/* Custom styles added to demo */
-
-iframe {
-    border-radius: var(--radius) !important;
+.profile img{
+    border:5px solid #2563eb;
+    box-shadow:0 12px 35px rgba(0,0,0,.18);
 }
 
-.entry-cover img {
-    border: 1px solid var(--border);
+.button{
+    border-radius:30px;
+    transition:.3s;
+}
+
+.button:hover{
+    transform:translateY(-3px);
+}
+
+.social-icons a:hover{
+    color:#2563eb;
+}
+
+.logo a{
+    font-size:28px;
+    font-weight:700;
+}
+
+.profile_inner h1{
+    font-size:56px;
+    font-weight:800;
+}
+
+.profile_inner span{
+    font-size:20px;
 }

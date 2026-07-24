@@ -17,12 +17,13 @@ ShowToc = false
 [params.profileMode]
 enabled = true
 title = "Umme Habiba"
+
 subtitle = """
-Lecturer, Department of Computer Science & Engineering
+Lecturer | Department of Computer Science & Engineering
 
 Daffodil International University
 
-Machine Learning • Deep Learning • Remote Sensing • Computer Vision
+Machine Learning • Deep Learning • Computer Vision • Remote Sensing
 """
 
 imageUrl = "images/profile.jpg"
@@ -63,10 +64,10 @@ ShowShareButtons = false
 ShowCodeCopyButtons = false
 
 [params.assets]
-disableFingerprinting = false
+disableHLJS = true
 
 [params.label]
-text = "UH Portfolio"
+text = "Umme Habiba"
 
 [menu]
 
