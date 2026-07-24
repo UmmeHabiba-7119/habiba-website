@@ -1,31 +1,118 @@
-.profile img{
-    border:5px solid #2563eb;
-    box-shadow:0 12px 35px rgba(0,0,0,.18);
+/* ===========================
+   Hero Section
+=========================== */
+
+.profile {
+    padding-top: 40px;
 }
 
-.button{
-    border-radius:30px;
-    transition:.3s;
+.profile_inner {
+    gap: 22px !important;
 }
 
-.button:hover{
-    transform:translateY(-3px);
+/* Profile Image */
+
+.profile img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 5px solid #3b82f6;
+    box-shadow: 0 15px 35px rgba(0,0,0,.25);
 }
 
-.social-icons a:hover{
-    color:#2563eb;
+/* Name */
+
+.profile_inner h1 {
+    font-size: 4rem !important;
+    font-weight: 700;
+    letter-spacing: -1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
-.logo a{
-    font-size:28px;
-    font-weight:700;
+/* Subtitle */
+
+.profile_inner span {
+    font-size: 1.35rem !important;
+    line-height: 2.1rem;
+    color: #cfcfcf;
+    max-width: 900px;
 }
+
+/* Social Icons */
+
+.social-icons {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.social-icons a {
+    font-size: 28px;
+    margin: 0 12px;
+    transition: .3s;
+}
+
+.social-icons a:hover {
+    color: #3b82f6;
+    transform: translateY(-4px);
+}
+
+/* Buttons */
+
+.buttons {
+    margin-top: 15px;
+    gap: 18px !important;
+}
+
+.button {
+    padding: 14px 28px !important;
+    border-radius: 999px !important;
+    font-size: 20px !important;
+    font-weight: 500;
+    transition: .3s;
+}
+
+.button:hover {
+    transform: translateY(-4px);
+}
+
+/* Logo */
+
+.logo a {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+/* Navbar */
+
+.nav {
+    max-width: 1250px;
+}
+
+.menu {
+    gap: 30px;
+}
+
+/* Responsive */
+
+@media (max-width:768px){
 
 .profile_inner h1{
-    font-size:56px;
-    font-weight:800;
+    font-size:2.8rem !important;
+}
+
+.profile img{
+    width:150px;
+    height:150px;
 }
 
 .profile_inner span{
-    font-size:20px;
+    font-size:1.1rem !important;
+    line-height:1.8rem;
+}
+
+.button{
+    font-size:18px !important;
+}
+
 }
