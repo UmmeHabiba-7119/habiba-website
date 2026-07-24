@@ -162,3 +162,33 @@ width:100%;
     backdrop-filter:blur(18px);
 }
 
+/* ==========================
+   FOOTER
+========================== */
+
+.custom-footer{
+
+    margin-top:100px;
+    padding:50px 20px;
+
+    text-align:center;
+
+    border-top:1px solid rgba(0,0,0,.08);
+
+}
+
+.custom-footer h3{
+
+    font-size:30px;
+
+    margin-bottom:12px;
+
+}
+
+.custom-footer p{
+
+    color:#666;
+
+    line-height:1.8;
+
+}
