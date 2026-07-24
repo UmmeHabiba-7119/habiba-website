@@ -1,6 +1,14 @@
 /* =========================
    HERO SECTION
 ========================= */
+.profile{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.profile_inner {
+    gap: 18px !important;
+}
 
 .profile .profile_inner h1 {
     font-size: 3.7rem;
@@ -20,14 +28,14 @@
 
 .profile .profile_inner span{
     font-size:1.45rem;
-    line-height:2;
+    line-height:1.75;
     color:#5b6470;
 }
 
 /* Profile Image */
 .profile img {
-    width: 190px !important;
-    height: 190px !important;
+    width: 180px !important;
+    height: 180px !important;
     object-fit: cover !important;
     object-position: center;
     border-radius: 50%;
@@ -41,8 +49,8 @@
 }
 
 .social-icons {
-    margin-top: 18px;
-    margin-bottom: 28px;
+    margin-top: 12px;
+    margin-bottom: 18px;
 }
 
 .social-icons a{
@@ -54,16 +62,11 @@
     color:#3b82f6;
 }
 
-.profile{
-    padding-top:50px;
-    padding-bottom:70px;
-}
-
 .header{
     position:sticky;
     top:0;
     z-index:999;
-    backdrop-filter:blur(18px);
+    backdrop-filter:blur(20px);
 }
 
 /* =========================
@@ -75,7 +78,8 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 14px;
-    margin-top: 15px;
+    margin-top: 8px;
+    margin-bottom: 25px !important;
     max-width: 520px;
     margin-left: auto;
     margin-right: auto;
@@ -165,6 +169,12 @@ width:100%;
 /* ==========================
    FOOTER
 ========================== */
+
+.footer{
+    margin-top:40px !important;
+    padding-top:15px !important;
+    padding-bottom:15px !important;
+}
 
 .custom-footer{
 
