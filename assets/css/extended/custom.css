@@ -61,13 +61,13 @@
     transform:translateY(-5px);
     color:#3b82f6;
 }
-/*
+
 .header{
     position:sticky;
     top:0;
     z-index:999;
     backdrop-filter:blur(20px);
-}*/
+}
 
 /* =========================
    BUTTONS
