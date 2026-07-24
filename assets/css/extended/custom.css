@@ -5,9 +5,9 @@
 .profile .profile_inner h1 {
     font-size: 3.7rem;
     font-weight: 700;
-    letter-spacing: -1px;
-    margin-top: 12px;
-    margin-bottom: 18px;
+    letter-spacing: -2px;
+    margin-top: 18px;
+    margin-bottom: 28px;
 }
 
 .profile .profile_inner .subtitle {
@@ -18,12 +18,26 @@
     margin: auto;
 }
 
+.profile .profile_inner span{
+    font-size:1.45rem;
+    line-height:2;
+    color:#5b6470;
+}
+
+/* Profile Image */
 .profile img {
-    width: 180px;
+    width: 190px !important;
+    height: 190px !important;
+    object-fit: cover !important;
+    object-position: center;
     border-radius: 50%;
     border: 5px solid #3b82f6;
-    box-shadow: 0 15px 35px rgba(0,0,0,.18);
-    margin-bottom: 20px;
+    box-shadow: 0 12px 30px rgba(0,0,0,.18);
+    transition:.4s;
+}
+
+.profile img:hover{
+    transform:scale(1.04);
 }
 
 .social-icons {
@@ -31,11 +45,19 @@
     margin-bottom: 28px;
 }
 
-.social-icons a {
-    font-size: 34px;
-    margin: 0 10px;
+.social-icons a{
+    transition:.3s;
 }
 
+.social-icons a:hover{
+    transform:translateY(-5px);
+    color:#3b82f6;
+}
+
+.profile{
+    padding-top:50px;
+    padding-bottom:70px;
+}
 
 /* =========================
    BUTTONS
@@ -120,4 +142,11 @@ line-height:1.8;
 width:100%;
 }
 
+}
+
+.header{
+    position:sticky;
+    top:0;
+    z-index:999;
+    backdrop-filter:blur(18px);
 }
