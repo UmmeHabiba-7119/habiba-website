@@ -42,8 +42,8 @@ name = "Research"
 url = "research"
 
 [[params.profileMode.buttons]]
-name = "Resume"
-url = "resume"
+name = "📄 Download Resume"
+url = "/files/Umme_Habiba_CV.pdf"
 
 [[params.socialIcons]]
 name = "github"
