@@ -92,19 +92,30 @@
     font-size: 1.05rem;
     font-weight: 600;
 
-    transition: .25s ease;
+    transition: all 0.3s ease;
 
     box-shadow: 0 5px 15px rgba(0,0,0,.08);
 }
 
 .profile .buttons a:hover {
 
-    background: #2563eb;
-    color: white;
+    background: linear-gradient(135deg, #2563eb, #3b82f6);
+    color: #fff !important;
+    transform: translateY(-4px) scale(1.03);
+    box-shadow: 0 12px 24px rgba(37,99,235,.35);
 
-    transform: translateY(-4px);
+}
 
-    box-shadow: 0 12px 25px rgba(37,99,235,.30);
+/* Text */
+.profile .buttons a:hover span,
+.profile .buttons a:hover {
+    color: #ffffff !important;
+}
+
+/* Emoji/Icon */
+.profile .buttons a:hover svg {
+    color: #ffffff !important;
+    fill: #ffffff !important;
 }
 
 
