@@ -55,4 +55,7 @@
         {{- end }}
     </div>
     {{- end}}
+    {{ if .Page.IsHome }}
+    {{ partial "home_info.html" . }}
+    {{ end }}
 </div>
