@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Umme Habiba</title>
-    <link>http://localhost:1313/habiba-website/</link>
+    <link>https://UmmeHabiba-7119.github.io/habiba-website/</link>
     <description>Recent content on Umme Habiba</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/habiba-website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://UmmeHabiba-7119.github.io/habiba-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PaperMod Installation Guide</title>
-      <link>http://localhost:1313/habiba-website/posts/papermod/papermod-installation/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/posts/papermod/papermod-installation/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/posts/papermod/papermod-installation/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/papermod/papermod-installation/</guid>
       <description>Step by step guide to install and update PaperMod in your Hugo site.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/habiba-website/posts/markdown-syntax/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/posts/markdown-syntax/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/markdown-syntax/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Code Syntax Guide</title>
-      <link>http://localhost:1313/habiba-website/posts/code_syntax/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/posts/code_syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/posts/code_syntax/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Markdown Headings</title>
-      <link>http://localhost:1313/habiba-website/posts/inner-section/md-headings/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/posts/inner-section/md-headings/</link>
       <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/posts/inner-section/md-headings/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/inner-section/md-headings/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Lists</title>
-      <link>http://localhost:1313/habiba-website/posts/inner-section/md-lists/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/posts/inner-section/md-lists/</link>
       <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/posts/inner-section/md-lists/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/inner-section/md-lists/</guid>
       <description>&lt;h2 id=&#34;markdown-lists&#34;&gt;Markdown Lists&lt;/h2&gt;
 &lt;p&gt;Markdown supports both ordered and unordered lists, as well as nested lists. Here&amp;rsquo;s how you can create them:&lt;/p&gt;
 &lt;h3 id=&#34;ordered-list&#34;&gt;Ordered List&lt;/h3&gt;
@@ -120,9 +120,9 @@
     </item>
     <item>
       <title>Sample Markdown Blog Post</title>
-      <link>http://localhost:1313/habiba-website/posts/inner-section/md-blog/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/posts/inner-section/md-blog/</link>
       <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/posts/inner-section/md-blog/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/inner-section/md-blog/</guid>
       <description>&lt;h2 id=&#34;sample-markdown-blog-post&#34;&gt;Sample Markdown Blog Post&lt;/h2&gt;
 &lt;p&gt;A sample blog post to test markdown rendering in PaperMod. This post includes various markdown elements such as headings, images, and code blocks. The content is meant to verify that all markdown features are displayed correctly in the theme.&lt;/p&gt;
 &lt;h3 id=&#34;sample-heading&#34;&gt;Sample Heading&lt;/h3&gt;
@@ -168,44 +168,44 @@
     </item>
     <item>
       <title>Markdown Syntax Guide For L2</title>
-      <link>http://localhost:1313/habiba-website/posts/markdown-syntax.fr/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/posts/markdown-syntax.fr/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/posts/markdown-syntax.fr/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/markdown-syntax.fr/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide For RTL</title>
-      <link>http://localhost:1313/habiba-website/posts/markdown-syntax.fa/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/posts/markdown-syntax.fa/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/posts/markdown-syntax.fa/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/markdown-syntax.fa/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Rich Content and Shortcodes</title>
-      <link>http://localhost:1313/habiba-website/posts/rich-content/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/posts/rich-content/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/rich-content/</guid>
       <description>A brief description of Hugo Shortcodes</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>http://localhost:1313/habiba-website/posts/math-typesetting/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/posts/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/posts/math-typesetting/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/math-typesetting/</guid>
       <description>A brief guide to setup KaTeX</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/habiba-website/posts/emoji-support/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/posts/emoji-support/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/habiba-website/about/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/about/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/about/</guid>
       <description>&lt;h1 id=&#34;hello-im-umme-habiba-&#34;&gt;Hello, I&amp;rsquo;m Umme Habiba 👋&lt;/h1&gt;
 &lt;p&gt;I am a Lecturer in the Department of Computer Science and Engineering at Daffodil International University.&lt;/p&gt;
 &lt;p&gt;I am currently pursuing my MSc in Computer Science and Engineering.&lt;/p&gt;
@@ -233,9 +233,9 @@
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/habiba-website/contact/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/contact/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/contact/</guid>
       <description>&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
 &lt;p&gt;📧 Email:
 &lt;a href=&#34;mailto:yourmail@gmail.com&#34;&gt;yourmail@gmail.com&lt;/a&gt;&lt;/p&gt;
@@ -248,9 +248,9 @@
     </item>
     <item>
       <title>Education</title>
-      <link>http://localhost:1313/habiba-website/education/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/education/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/education/</guid>
       <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
 &lt;h2 id=&#34;msc-in-computer-science-and-engineering&#34;&gt;MSc in Computer Science and Engineering&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Daffodil International University&lt;/strong&gt;&lt;/p&gt;
@@ -262,9 +262,9 @@
     </item>
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/habiba-website/experience/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/experience/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/experience/</guid>
       <description>&lt;h1 id=&#34;experience&#34;&gt;Experience&lt;/h1&gt;
 &lt;h2 id=&#34;lecturer&#34;&gt;Lecturer&lt;/h2&gt;
 &lt;p&gt;Department of Computer Science and Engineering&lt;/p&gt;
@@ -279,9 +279,9 @@
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/habiba-website/projects/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/projects/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/projects/</guid>
       <description>&lt;h1 id=&#34;academic-projects&#34;&gt;Academic Projects&lt;/h1&gt;
 &lt;h2 id=&#34;smart-goat-chain&#34;&gt;Smart Goat Chain&lt;/h2&gt;
 &lt;p&gt;IoT and RFID based livestock management system.&lt;/p&gt;
@@ -297,9 +297,9 @@
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/habiba-website/research/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/research/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/research/</guid>
       <description>&lt;h1 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h1&gt;
 &lt;p&gt;My current research areas include:&lt;/p&gt;
 &lt;ul&gt;
@@ -316,9 +316,9 @@
     </item>
     <item>
       <title>Skills</title>
-      <link>http://localhost:1313/habiba-website/skills/</link>
+      <link>https://UmmeHabiba-7119.github.io/habiba-website/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/skills/</guid>
+      <guid>https://UmmeHabiba-7119.github.io/habiba-website/skills/</guid>
       <description>&lt;h1 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h1&gt;
 &lt;h3 id=&#34;programming&#34;&gt;Programming&lt;/h3&gt;
 &lt;ul&gt;
