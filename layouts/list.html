@@ -47,11 +47,13 @@
 
 {{- $paginator := .Paginate $pages }}
 
+/*
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- if .IsHome }}
     {{- partial "home_info.html" . }}
 {{- end }}
 {{- end }}
+*/
 
 {{- $term := .Data.Term }}
 {{- range $index, $page := $paginator.Pages }}
