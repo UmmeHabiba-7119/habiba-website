@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Inner Section on Umme Habiba</title>
-    <link>http://localhost:1313/posts/inner-section/</link>
+    <link>http://localhost:1313/habiba-website/posts/inner-section/</link>
     <description>Recent content in Inner Section on Umme Habiba</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/inner-section/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/habiba-website/posts/inner-section/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Headings</title>
-      <link>http://localhost:1313/posts/inner-section/md-headings/</link>
+      <link>http://localhost:1313/habiba-website/posts/inner-section/md-headings/</link>
       <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/inner-section/md-headings/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/inner-section/md-headings/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Lists</title>
-      <link>http://localhost:1313/posts/inner-section/md-lists/</link>
+      <link>http://localhost:1313/habiba-website/posts/inner-section/md-lists/</link>
       <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/inner-section/md-lists/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/inner-section/md-lists/</guid>
       <description>&lt;h2 id=&#34;markdown-lists&#34;&gt;Markdown Lists&lt;/h2&gt;
 &lt;p&gt;Markdown supports both ordered and unordered lists, as well as nested lists. Here&amp;rsquo;s how you can create them:&lt;/p&gt;
 &lt;h3 id=&#34;ordered-list&#34;&gt;Ordered List&lt;/h3&gt;
@@ -99,9 +99,9 @@
     </item>
     <item>
       <title>Sample Markdown Blog Post</title>
-      <link>http://localhost:1313/posts/inner-section/md-blog/</link>
+      <link>http://localhost:1313/habiba-website/posts/inner-section/md-blog/</link>
       <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/inner-section/md-blog/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/inner-section/md-blog/</guid>
       <description>&lt;h2 id=&#34;sample-markdown-blog-post&#34;&gt;Sample Markdown Blog Post&lt;/h2&gt;
 &lt;p&gt;A sample blog post to test markdown rendering in PaperMod. This post includes various markdown elements such as headings, images, and code blocks. The content is meant to verify that all markdown features are displayed correctly in the theme.&lt;/p&gt;
 &lt;h3 id=&#34;sample-heading&#34;&gt;Sample Heading&lt;/h3&gt;

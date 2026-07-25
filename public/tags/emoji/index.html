@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto" data-theme="light">
+<html lang="en" dir="auto" data-theme="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><script src="/habiba-website/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=habiba-website/livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/tags/emoji/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.a1b396f6f32ed91df8489d9deb88714b331aed96f5cdfd65518f4e0de49810bc.css" integrity="sha256-obOW9vMu2R34SJ2d64hxSzMa7Zb1zf1lUY9ODeSYELw=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="canonical" href="http://localhost:1313/habiba-website/tags/emoji/">
+<link crossorigin="anonymous" href="/habiba-website/assets/css/stylesheet.f67abb39e26f29dd76041e52964383f0f880e5a2097b2bfabf2bbfd7212a6ee3.css" integrity="sha256-9nq7OeJvKd12BB5SlkOD8PiA5aIJeyv6vyu/1yEqbuM=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/habiba-website/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/habiba-website/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/habiba-website/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/habiba-website/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/habiba-website/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/emoji/index.xml" title="rss">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/tags/emoji/">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/habiba-website/tags/emoji/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/habiba-website/tags/emoji/">
 <noscript>
     <style>
         #theme-toggle,
@@ -28,10 +28,41 @@
         }
 
     </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
 </noscript>
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
     }
 
 </script>
@@ -40,7 +71,7 @@
     <header class="header">
     <nav class="header-nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="Umme Habiba (Alt + H)">Umme Habiba</a>
+            <a href="http://localhost:1313/habiba-website/" accesskey="h" title="Umme Habiba (Alt + H)">Umme Habiba</a>
             <div class="logo-switches">
                 <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
@@ -66,38 +97,38 @@
         </div>
         <ul id="menu" class="menu">
             <li>
-                <a href="http://localhost:1313/about/" title="About">
+                <a href="http://localhost:1313/habiba-website/about/" title="About">
                     <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/education/" title="Education">
+                <a href="http://localhost:1313/habiba-website/education/" title="Education">
                     <span>Education</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/projects/" title="Projects">
-                    <span>Projects</span>
+                <a href="http://localhost:1313/habiba-website/experience/" title="Experience">
+                    <span>Experience</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/skills/" title="Skills">
+                <a href="http://localhost:1313/habiba-website/skills/" title="Skills">
                     <span>Skills</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/contact/" title="Contact">
-                    <span>Contact</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/research/" title="Research">
+                <a href="http://localhost:1313/habiba-website/research/" title="Research">
                     <span>Research</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/resume/" title="Resume">
-                    <span>Resume</span>
+                <a href="http://localhost:1313/habiba-website/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/habiba-website/contact/" title="Contact">
+                    <span>Contact</span>
                 </a>
             </li>
         </ul>
@@ -122,20 +153,16 @@
   <footer class="entry-footer">
 
 <span title='2019-03-05 00:00:00 +0000 UTC'>March 5, 2019</span>&nbsp;·&nbsp;<span>Hugo Authors</span></footer>
-  <a class="entry-link" aria-label="post link to Emoji Support" href="http://localhost:1313/posts/emoji-support/"></a>
+  <a class="entry-link" aria-label="post link to Emoji Support" href="http://localhost:1313/habiba-website/posts/emoji-support/"></a>
 </article>
     </main>
     
 <footer class="footer">
-        <span>&copy; 2026 <a href="http://localhost:1313/">Umme Habiba</a></span> · 
+        <span>&copy; 2026 <a href="http://localhost:1313/habiba-website/">Umme Habiba</a></span> · 
 
     
     
-    <span>
-        Powered by
-        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
+ 
 </footer>
 <a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"

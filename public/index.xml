@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Umme Habiba</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/habiba-website/</link>
     <description>Recent content on Umme Habiba</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/habiba-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PaperMod Installation Guide</title>
-      <link>http://localhost:1313/posts/papermod/papermod-installation/</link>
+      <link>http://localhost:1313/habiba-website/posts/papermod/papermod-installation/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/papermod/papermod-installation/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/papermod/papermod-installation/</guid>
       <description>Step by step guide to install and update PaperMod in your Hugo site.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/posts/markdown-syntax/</link>
+      <link>http://localhost:1313/habiba-website/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/markdown-syntax/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Code Syntax Guide</title>
-      <link>http://localhost:1313/posts/code_syntax/</link>
+      <link>http://localhost:1313/habiba-website/posts/code_syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/code_syntax/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Markdown Headings</title>
-      <link>http://localhost:1313/posts/inner-section/md-headings/</link>
+      <link>http://localhost:1313/habiba-website/posts/inner-section/md-headings/</link>
       <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/inner-section/md-headings/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/inner-section/md-headings/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Lists</title>
-      <link>http://localhost:1313/posts/inner-section/md-lists/</link>
+      <link>http://localhost:1313/habiba-website/posts/inner-section/md-lists/</link>
       <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/inner-section/md-lists/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/inner-section/md-lists/</guid>
       <description>&lt;h2 id=&#34;markdown-lists&#34;&gt;Markdown Lists&lt;/h2&gt;
 &lt;p&gt;Markdown supports both ordered and unordered lists, as well as nested lists. Here&amp;rsquo;s how you can create them:&lt;/p&gt;
 &lt;h3 id=&#34;ordered-list&#34;&gt;Ordered List&lt;/h3&gt;
@@ -120,9 +120,9 @@
     </item>
     <item>
       <title>Sample Markdown Blog Post</title>
-      <link>http://localhost:1313/posts/inner-section/md-blog/</link>
+      <link>http://localhost:1313/habiba-website/posts/inner-section/md-blog/</link>
       <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/inner-section/md-blog/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/inner-section/md-blog/</guid>
       <description>&lt;h2 id=&#34;sample-markdown-blog-post&#34;&gt;Sample Markdown Blog Post&lt;/h2&gt;
 &lt;p&gt;A sample blog post to test markdown rendering in PaperMod. This post includes various markdown elements such as headings, images, and code blocks. The content is meant to verify that all markdown features are displayed correctly in the theme.&lt;/p&gt;
 &lt;h3 id=&#34;sample-heading&#34;&gt;Sample Heading&lt;/h3&gt;
@@ -168,77 +168,74 @@
     </item>
     <item>
       <title>Markdown Syntax Guide For L2</title>
-      <link>http://localhost:1313/posts/markdown-syntax.fr/</link>
+      <link>http://localhost:1313/habiba-website/posts/markdown-syntax.fr/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/markdown-syntax.fr/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/markdown-syntax.fr/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide For RTL</title>
-      <link>http://localhost:1313/posts/markdown-syntax.fa/</link>
+      <link>http://localhost:1313/habiba-website/posts/markdown-syntax.fa/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/markdown-syntax.fa/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/markdown-syntax.fa/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Rich Content and Shortcodes</title>
-      <link>http://localhost:1313/posts/rich-content/</link>
+      <link>http://localhost:1313/habiba-website/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rich-content/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/rich-content/</guid>
       <description>A brief description of Hugo Shortcodes</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>http://localhost:1313/posts/math-typesetting/</link>
+      <link>http://localhost:1313/habiba-website/posts/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/math-typesetting/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/math-typesetting/</guid>
       <description>A brief guide to setup KaTeX</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/posts/emoji-support/</link>
+      <link>http://localhost:1313/habiba-website/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/emoji-support/</guid>
+      <guid>http://localhost:1313/habiba-website/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/habiba-website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
-&lt;p&gt;Hello!&lt;/p&gt;
-&lt;p&gt;I am &lt;strong&gt;Umme Habiba&lt;/strong&gt;, a Lecturer in the Department of Computer Science and Engineering (CSE) at Daffodil International University (DIU).&lt;/p&gt;
-&lt;p&gt;Currently, I am pursuing my MSc in Computer Science and Engineering.&lt;/p&gt;
-&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+      <guid>http://localhost:1313/habiba-website/about/</guid>
+      <description>&lt;h1 id=&#34;hello-im-umme-habiba-&#34;&gt;Hello, I&amp;rsquo;m Umme Habiba 👋&lt;/h1&gt;
+&lt;p&gt;I am a Lecturer in the Department of Computer Science and Engineering at Daffodil International University.&lt;/p&gt;
+&lt;p&gt;I am currently pursuing my MSc in Computer Science and Engineering.&lt;/p&gt;
+&lt;h2 id=&#34;my-research-interests&#34;&gt;My Research Interests&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Machine Learning&lt;/li&gt;
 &lt;li&gt;Deep Learning&lt;/li&gt;
 &lt;li&gt;Computer Vision&lt;/li&gt;
 &lt;li&gt;Remote Sensing&lt;/li&gt;
-&lt;li&gt;Image Processing&lt;/li&gt;
+&lt;li&gt;Satellite Image Processing&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h2&gt;
+&lt;h2 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;C&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
 &lt;li&gt;C++&lt;/li&gt;
 &lt;li&gt;Java&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Google Earth Engine&lt;/li&gt;
-&lt;li&gt;TensorFlow&lt;/li&gt;
 &lt;li&gt;OpenCV&lt;/li&gt;
+&lt;li&gt;TensorFlow&lt;/li&gt;
+&lt;li&gt;Google Earth Engine&lt;/li&gt;
 &lt;li&gt;Git&lt;/li&gt;
 &lt;li&gt;Hugo&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+&lt;h2 id=&#34;career-goal&#34;&gt;Career Goal&lt;/h2&gt;
+&lt;p&gt;My goal is to conduct impactful research in Artificial Intelligence and Computer Vision while contributing to quality education.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:1313/habiba-website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://localhost:1313/habiba-website/contact/</guid>
       <description>&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
 &lt;p&gt;📧 Email:
 &lt;a href=&#34;mailto:yourmail@gmail.com&#34;&gt;yourmail@gmail.com&lt;/a&gt;&lt;/p&gt;
@@ -251,73 +248,98 @@
     </item>
     <item>
       <title>Education</title>
-      <link>http://localhost:1313/education/</link>
+      <link>http://localhost:1313/habiba-website/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/</guid>
+      <guid>http://localhost:1313/habiba-website/education/</guid>
       <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
-&lt;h3 id=&#34;msc-in-computer-science-and-engineering&#34;&gt;MSc in Computer Science and Engineering&lt;/h3&gt;
+&lt;h2 id=&#34;msc-in-computer-science-and-engineering&#34;&gt;MSc in Computer Science and Engineering&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Daffodil International University&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2025 – Present&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;bsc-in-computer-science-and-engineering&#34;&gt;BSc in Computer Science and Engineering&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Daffodil International University&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2016 - 2019&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/habiba-website/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/habiba-website/experience/</guid>
+      <description>&lt;h1 id=&#34;experience&#34;&gt;Experience&lt;/h1&gt;
+&lt;h2 id=&#34;lecturer&#34;&gt;Lecturer&lt;/h2&gt;
+&lt;p&gt;Department of Computer Science and Engineering&lt;/p&gt;
 &lt;p&gt;Daffodil International University&lt;/p&gt;
-&lt;h3 id=&#34;bsc-in-computer-science-and-engineering&#34;&gt;BSc in Computer Science and Engineering&lt;/h3&gt;
-&lt;p&gt;Daffodil International University&lt;/p&gt;</description>
+&lt;p&gt;Teaching Areas&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Compiler Design&lt;/li&gt;
+&lt;li&gt;Deep Learning&lt;/li&gt;
+&lt;li&gt;Database Systems&lt;/li&gt;
+&lt;li&gt;Programming&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://localhost:1313/habiba-website/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://localhost:1313/habiba-website/projects/</guid>
       <description>&lt;h1 id=&#34;academic-projects&#34;&gt;Academic Projects&lt;/h1&gt;
 &lt;h2 id=&#34;smart-goat-chain&#34;&gt;Smart Goat Chain&lt;/h2&gt;
-&lt;p&gt;RFID Based Smart Goat Monitoring System.&lt;/p&gt;
+&lt;p&gt;IoT and RFID based livestock management system.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;land-surface-temperature-prediction&#34;&gt;Land Surface Temperature Prediction&lt;/h2&gt;
-&lt;p&gt;Satellite-based LST Prediction using Machine Learning.&lt;/p&gt;
+&lt;p&gt;Satellite image analysis using Machine Learning.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;vegetation-change-detection&#34;&gt;Vegetation Change Detection&lt;/h2&gt;
-&lt;p&gt;Satellite Image Analysis using Google Earth Engine.&lt;/p&gt;</description>
+&lt;p&gt;Satellite-based vegetation monitoring using Google Earth Engine.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;violence-detection&#34;&gt;Violence Detection&lt;/h2&gt;
+&lt;p&gt;Deep Learning based abnormal activity detection from video.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>http://localhost:1313/habiba-website/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
+      <guid>http://localhost:1313/habiba-website/research/</guid>
       <description>&lt;h1 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h1&gt;
+&lt;p&gt;My current research areas include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep Learning&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Computer Vision&lt;/li&gt;
+&lt;li&gt;Remote Sensing&lt;/li&gt;
+&lt;li&gt;Land Surface Temperature Prediction&lt;/li&gt;
+&lt;li&gt;Vegetation Analysis&lt;/li&gt;
+&lt;li&gt;Satellite Image Processing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Current Research:&lt;/p&gt;
+&lt;p&gt;Satellite-Based Quantification of Vegetation Loss and Land Surface Temperature Dynamics using Machine Learning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/habiba-website/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/habiba-website/skills/</guid>
+      <description>&lt;h1 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h1&gt;
+&lt;h3 id=&#34;programming&#34;&gt;Programming&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;C&lt;/li&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;artificial-intelligence&#34;&gt;Artificial Intelligence&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Machine Learning&lt;/li&gt;
 &lt;li&gt;Deep Learning&lt;/li&gt;
 &lt;li&gt;Computer Vision&lt;/li&gt;
-&lt;li&gt;Remote Sensing&lt;/li&gt;
-&lt;li&gt;Satellite Image Analysis&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;h1 id=&#34;resume&#34;&gt;Resume&lt;/h1&gt;
-&lt;p&gt;Upload your CV PDF later.&lt;/p&gt;
-&lt;p&gt;Example:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/cv.pdf&#34;&gt;Download CV&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Skills</title>
-      <link>http://localhost:1313/skills/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/skills/</guid>
-      <description>&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;C&lt;/li&gt;
-&lt;li&gt;C++&lt;/li&gt;
-&lt;li&gt;Java&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;HTML&lt;/li&gt;
-&lt;li&gt;CSS&lt;/li&gt;
-&lt;li&gt;JavaScript&lt;/li&gt;
-&lt;li&gt;Machine Learning&lt;/li&gt;
-&lt;li&gt;Deep Learning&lt;/li&gt;
-&lt;li&gt;OpenCV&lt;/li&gt;
 &lt;li&gt;Google Earth Engine&lt;/li&gt;
+&lt;li&gt;OpenCV&lt;/li&gt;
+&lt;li&gt;TensorFlow&lt;/li&gt;
 &lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Hugo&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>
