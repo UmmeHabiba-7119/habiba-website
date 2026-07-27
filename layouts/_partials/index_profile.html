@@ -54,6 +54,8 @@
         </div>
         {{- end }}
     </div>
+    {{ if .IsHome }}
     {{ partial "home_info.html" . }}
+    {{ end }}
     {{- end}}
 </div>
