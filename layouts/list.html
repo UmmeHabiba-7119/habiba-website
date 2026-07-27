@@ -1,7 +1,6 @@
 {{- define "main" }}
 
 {{ if .IsHome }}
-    {{ partial "index_profile.html" . }}
 {{ end }}
 
 {{- if not .IsHome | and .Title }}
@@ -46,14 +45,6 @@
 {{- end }}
 
 {{- $paginator := .Paginate $pages }}
-
-/*
-{{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
-{{- if .IsHome }}
-    {{- partial "home_info.html" . }}
-{{- end }}
-{{- end }}
-*/
 
 {{- $term := .Data.Term }}
 {{- range $index, $page := $paginator.Pages }}
@@ -119,7 +110,5 @@
   </nav>
 </footer>
 {{- end }}
-
-{{- end }}{{/* end profileMode */}}
 
 {{- end }}{{- /* end main */ -}}
