@@ -2,14 +2,26 @@
 title: "Contact"
 ---
 
-## Contact Information
+# Contact
 
-📧 Email:
-yourmail@gmail.com
+I am always interested in research collaboration and academic discussions.
 
-🏫 Department of Computer Science and Engineering
+### Email
+
+habiba.cse@diu.edu.bd
+
+### Office
+
+Department of Computer Science and Engineering
 
 Daffodil International University
+
+### Research Interests
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Remote Sensing
 
 🌐 GitHub
 
@@ -17,4 +29,4 @@ https://github.com/UmmeHabiba-7119
 
 💼 LinkedIn
 
-https://linkedin.com/in/YOUR_USERNAME
+https://linkedin.com/in/umme-habiba-5087b5190

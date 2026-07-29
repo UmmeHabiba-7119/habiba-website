@@ -401,3 +401,29 @@ grid-template-columns:1fr;
     font-size:.96rem;
 
 }
+
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main.main {
+    flex: 1;
+}
+
+.profile {
+    margin-bottom: 80px;
+}
+
+.home-info {
+    margin-bottom: 60px;
+}
+
+.stats-section {
+    margin-bottom: 100px;
+}

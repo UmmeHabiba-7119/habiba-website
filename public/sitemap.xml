@@ -113,5 +113,7 @@
     <loc>http://localhost:1313/habiba-website/search.fr/</loc>
   </url><url>
     <loc>http://localhost:1313/habiba-website/skills/</loc>
+  </url><url>
+    <loc>http://localhost:1313/habiba-website/teaching/</loc>
   </url>
 </urlset>

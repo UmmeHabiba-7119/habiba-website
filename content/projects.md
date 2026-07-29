@@ -4,24 +4,28 @@ title: "Projects"
 
 # Academic Projects
 
-## Smart Goat Chain
+## Smart Goat Pregnancy Detection using Deep Learning
+**Technologies:** Python, OpenCV, YOLO, Deep Learning
 
-IoT and RFID based livestock management system.
-
----
-
-## Land Surface Temperature Prediction
-
-Satellite image analysis using Machine Learning.
+A Computer Vision-based system that automatically detects goat pregnancy and estimates the pregnancy stage from continuous video monitoring.
 
 ---
 
-## Vegetation Change Detection
+## Satellite Image Analysis using Google Earth Engine
+**Technologies:** Google Earth Engine, Python
 
-Satellite-based vegetation monitoring using Google Earth Engine.
+Analyzed vegetation changes and Land Surface Temperature (LST) using satellite imagery and remote sensing techniques.
 
 ---
 
-## Violence Detection
+## Personal Academic Website
+**Technologies:** Hugo, GitHub Pages
 
-Deep Learning based abnormal activity detection from video.
+Designed and developed a responsive academic portfolio website to showcase research, publications, projects, and teaching activities.
+
+---
+
+## Compiler Design Laboratory
+**Technologies:** C++, Flex, Bison
+
+Implemented lexical analysis, parsing, syntax analysis, and compiler construction concepts.

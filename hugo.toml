@@ -105,12 +105,18 @@ weight=5
 
 [[menu.main]]
 identifier="projects"
+name="Teaching"
+url="/teaching/"
+weight=6
+
+[[menu.main]]
+identifier="projects"
 name="Projects"
 url="/projects/"
-weight=6
+weight=7
 
 [[menu.main]]
 identifier="contact"
 name="Contact"
 url="/contact/"
-weight=7
+weight=8
