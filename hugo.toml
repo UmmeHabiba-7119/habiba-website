@@ -120,3 +120,8 @@ identifier="contact"
 name="Contact"
 url="/contact/"
 weight=8
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

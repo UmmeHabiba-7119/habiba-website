@@ -202,6 +202,36 @@
       <description>Guide to emoji usage in Hugo</description>
     </item>
     <item>
+      <title></title>
+      <link>http://localhost:1313/habiba-website/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/habiba-website/contact/</guid>
+      <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;I am always interested in research collaboration and academic discussions.&lt;/p&gt;
+&lt;h3 id=&#34;email&#34;&gt;Email&lt;/h3&gt;
+&lt;a href=&#34;mailto:habiba.cse@diu.edu.bd&#34;&gt;
+habiba.cse@diu.edu.bd
+&lt;/a&gt;
+&lt;h3 id=&#34;office&#34;&gt;Office&lt;/h3&gt;
+&lt;p&gt;Department of Computer Science and Engineering&lt;/p&gt;
+&lt;p&gt;Daffodil International University&lt;/p&gt;
+&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Deep Learning&lt;/li&gt;
+&lt;li&gt;Computer Vision&lt;/li&gt;
+&lt;li&gt;Remote Sensing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-github&#34;&gt;🌐 GitHub&lt;/h3&gt;
+&lt;a href=&#34;https://github.com/UmmeHabiba-7119&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+GitHub
+&lt;/a&gt;
+&lt;h3 id=&#34;-linkedin&#34;&gt;💼 LinkedIn&lt;/h3&gt;
+&lt;a href=&#34;https://linkedin.com/in/umme-habiba-5087b5190&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+LinkedIn
+&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>About Me</title>
       <link>http://localhost:1313/habiba-website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -230,30 +260,6 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;career-goal&#34;&gt;Career Goal&lt;/h2&gt;
 &lt;p&gt;My goal is to conduct impactful research in Artificial Intelligence and Computer Vision while contributing to quality education.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/habiba-website/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/habiba-website/contact/</guid>
-      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
-&lt;p&gt;I am always interested in research collaboration and academic discussions.&lt;/p&gt;
-&lt;h3 id=&#34;email&#34;&gt;Email&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:habiba.cse@diu.edu.bd&#34;&gt;habiba.cse@diu.edu.bd&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;office&#34;&gt;Office&lt;/h3&gt;
-&lt;p&gt;Department of Computer Science and Engineering&lt;/p&gt;
-&lt;p&gt;Daffodil International University&lt;/p&gt;
-&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Machine Learning&lt;/li&gt;
-&lt;li&gt;Deep Learning&lt;/li&gt;
-&lt;li&gt;Computer Vision&lt;/li&gt;
-&lt;li&gt;Remote Sensing&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🌐 GitHub&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/UmmeHabiba-7119&#34;&gt;https://github.com/UmmeHabiba-7119&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;💼 LinkedIn&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://linkedin.com/in/umme-habiba-5087b5190&#34;&gt;https://linkedin.com/in/umme-habiba-5087b5190&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Education</title>

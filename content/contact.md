@@ -1,20 +1,19 @@
----
-title: "Contact"
----
-
-# Contact
+## Contact
 
 I am always interested in research collaboration and academic discussions.
 
 ### Email
 
+<a href="mailto:habiba.cse@diu.edu.bd">
 habiba.cse@diu.edu.bd
+</a>
 
 ### Office
 
 Department of Computer Science and Engineering
 
 Daffodil International University
+
 
 ### Research Interests
 
@@ -23,10 +22,16 @@ Daffodil International University
 - Computer Vision
 - Remote Sensing
 
-🌐 GitHub
 
-https://github.com/UmmeHabiba-7119
+### 🌐 GitHub
 
-💼 LinkedIn
+<a href="https://github.com/UmmeHabiba-7119" target="_blank" rel="noopener noreferrer">
+GitHub
+</a>
 
-https://linkedin.com/in/umme-habiba-5087b5190
+
+### 💼 LinkedIn
+
+<a href="https://linkedin.com/in/umme-habiba-5087b5190" target="_blank" rel="noopener noreferrer">
+LinkedIn
+</a>
