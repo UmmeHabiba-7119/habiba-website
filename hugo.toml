@@ -104,10 +104,10 @@ url="/research/"
 weight=5
 
 [[menu.main]]
-identifier="projects"
-name="Teaching"
-url="/teaching/"
-weight=6
+identifier = "teaching"
+name = "Teaching"
+pageRef = "/teaching"
+weight = 6
 
 [[menu.main]]
 identifier="projects"
@@ -116,10 +116,16 @@ url="/projects/"
 weight=7
 
 [[menu.main]]
+identifier="publications"
+name = "Publications"
+url = "/publications/"
+weight = 8
+
+[[menu.main]]
 identifier="contact"
 name="Contact"
 url="/contact/"
-weight=8
+weight=9
 
 [markup]
   [markup.goldmark]

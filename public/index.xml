@@ -314,6 +314,23 @@ LinkedIn
 &lt;p&gt;Designed and developed a responsive academic portfolio website to showcase research, publications, projects, and teaching activities.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/habiba-website/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/habiba-website/publications/</guid>
+      <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
+&lt;h2 id=&#34;journal-articles&#34;&gt;Journal Articles&lt;/h2&gt;
+&lt;p&gt;No publications yet.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conference-papers&#34;&gt;Conference Papers&lt;/h2&gt;
+&lt;p&gt;Coming Soon.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;thesis&#34;&gt;Thesis&lt;/h2&gt;
+&lt;p&gt;M.Sc. Research (Ongoing)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Computer Vision-based Goat Pregnancy Detection using Deep Learning&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Research</title>
       <link>http://localhost:1313/habiba-website/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
