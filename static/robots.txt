@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ummehabiba-7119.github.io/habiba-website/sitemap.xml
