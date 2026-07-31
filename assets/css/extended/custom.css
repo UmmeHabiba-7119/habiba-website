@@ -660,3 +660,44 @@ main.main {
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
     text-decoration: none;
 }
+
+.cv-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin: 28px 0 32px;
+}
+
+.cv-button {
+    display: inline-block;
+    padding: 11px 22px;
+    border-radius: 8px;
+    background: var(--primary);
+    color: var(--theme) !important;
+    font-weight: 600;
+    text-decoration: none;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.cv-button:hover {
+    transform: translateY(-2px);
+    opacity: 0.88;
+}
+
+.cv-button-secondary {
+    background: transparent;
+    color: var(--primary) !important;
+    border: 1px solid var(--primary);
+}
+
+@media screen and (max-width: 600px) {
+    .cv-actions {
+        flex-direction: column;
+    }
+
+    .cv-button {
+        width: 100%;
+        text-align: center;
+    }
+}
+

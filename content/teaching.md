@@ -2,96 +2,68 @@
 title: "Teaching"
 ---
 
-# Teaching
-
-I am currently serving as a Lecturer in the Department of Computer Science and Engineering at Daffodil International University. My teaching interests include programming, compiler design, artificial intelligence, machine learning, deep learning, cloud computing, and related computer science subjects.
-
----
-
-## Courses Taught
-
-### Compiler Design
-
-Topics include:
-
-- Phases of a Compiler
-- Lexical Analysis
-- Syntax Analysis
-- FIRST and FOLLOW Sets
-- LL(1) Parsing
-- LR Parsing
-- Intermediate Code Generation
-- Code Optimization
-
----
-
-### Deep Learning
-
-Topics include:
-
-- Multilayer Perceptron
-- Gradient Descent
-- Backpropagation
-- Convolutional Neural Networks
-- Transfer Learning
-- Model Evaluation
-- Generative Artificial Intelligence
-
----
-
-### Cloud Computing
-
-Topics include:
-
-- Cloud Service Models
-- Virtualization
-- Containers
-- Docker
-- Container Orchestration
-- Continuous Integration and Delivery
-- Cloud-Native Applications
-
----
-
-### Machine Learning
-
-Topics include:
-
-- Supervised Learning
-- Unsupervised Learning
-- Classification
-- Regression
-- Decision Trees
-- K-Nearest Neighbors
-- Model Evaluation
-
----
-
-## Teaching Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Compiler Design
-- Cloud Computing
-- Programming and Problem Solving
+Teaching is an integral part of my academic career. I strive to create a learning environment where students develop strong theoretical foundations while gaining practical problem-solving skills through real-world applications.
 
 ---
 
 ## Teaching Philosophy
 
-I believe that effective teaching requires a balance between theoretical knowledge and practical application. I encourage students to understand fundamental concepts, solve real-world problems, and develop strong analytical and technical skills.
+I believe that effective teaching combines conceptual understanding with hands-on practice. My goal is to encourage curiosity, analytical thinking, and continuous learning while preparing students to address real-world challenges using computing technologies.
 
 ---
 
-## Academic Support
+## Courses
 
-I am interested in supporting students in the following areas:
+I have experience teaching undergraduate courses including:
 
-- Undergraduate research
-- Final-year projects
-- Thesis guidance
-- Programming and technical problem solving
-- Research paper preparation
-- Machine learning and deep learning projects
+- Compiler Design
+- Machine Learning
+- Deep Learning
+- Cloud Computing
+- Programming Languages
+- Artificial Intelligence
+- Computer Vision (Related Topics)
+
+---
+
+## Areas of Instruction
+
+My teaching focuses on:
+
+- Programming Fundamentals
+- Algorithms and Problem Solving
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Cloud Technologies
+
+---
+
+## Student Supervision
+
+I actively support undergraduate students through:
+
+- Final Year Projects
+- Thesis Supervision
+- Research Methodology
+- Academic Writing
+- Technical Presentations
+
+---
+
+## Learning Approach
+
+I encourage students to:
+
+- Learn through practical implementation
+- Develop analytical thinking
+- Explore research-oriented learning
+- Build real-world projects
+- Collaborate and communicate effectively
+
+---
+
+## Academic Mentoring
+
+Beyond classroom teaching, I enjoy mentoring students in research, project development, technical competitions, and career preparation in the field of Computer Science and Engineering.

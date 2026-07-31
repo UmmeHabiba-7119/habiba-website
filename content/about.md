@@ -1,32 +1,58 @@
 ---
-title: "About Me"
+title: "About"
 ---
 
-# Hello, I'm Umme Habiba 👋
+I am **Umme Habiba**, a Lecturer in the Department of Computer Science and Engineering at **Daffodil International University, Bangladesh**.
 
-I am a Lecturer in the Department of Computer Science and Engineering at Daffodil International University.
+My academic work combines teaching, research, and the practical application of computing technologies. I am particularly interested in developing intelligent solutions for real-world problems in agriculture, environmental monitoring, healthcare, and education.
 
-I am currently pursuing my MSc in Computer Science and Engineering.
+---
 
-## My Research Interests
+## Current Position
 
+**Lecturer**  
+Department of Computer Science and Engineering  
+Daffodil International University
+
+My teaching responsibilities include delivering lectures, conducting laboratory sessions, preparing academic materials, evaluating student performance, and supporting students in their academic and project-based work.
+
+---
+
+## Education
+
+### M.Sc. in Computer Science and Engineering
+
+**Daffodil International University**  
+2025 – Present
+
+Currently pursuing postgraduate studies with a focus on Deep Learning, Computer Vision, and intelligent video-based monitoring systems.
+
+### B.Sc. in Computer Science and Engineering
+
+**Daffodil International University**  
+2016 – 2019
+
+---
+
+## Academic Interests
+
+My academic interests include:
+
+- Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - Remote Sensing
-- Satellite Image Processing
+- Image and Video Analysis
 
-## Technical Skills
+---
 
-- Python
-- C++
-- Java
-- OpenCV
-- TensorFlow
-- Google Earth Engine
-- Git
-- Hugo
+## Technical Background
 
-## Career Goal
+I work primarily with Python-based machine learning and computer vision tools. My experience also includes C, C++, Java, TensorFlow, OpenCV, Google Earth Engine, Git, GitHub, and Jupyter Notebook.
 
-My goal is to conduct impactful research in Artificial Intelligence and Computer Vision while contributing to quality education.
+---
+
+## Professional Objective
+
+My goal is to contribute to meaningful research, deliver quality computer science education, and collaborate on interdisciplinary projects that apply artificial intelligence to practical challenges.

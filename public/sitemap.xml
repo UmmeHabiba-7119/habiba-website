@@ -2,96 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/habiba-website/posts/papermod/papermod-installation/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/code_syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/inner-section/</loc>
-    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/</loc>
-    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/</loc>
-    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/inner-section/md-headings/</loc>
-    <lastmod>2024-06-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/inner-section/md-lists/</loc>
-    <lastmod>2024-06-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/inner-section/md-blog/</loc>
-    <lastmod>2024-06-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/tags/docs/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/tags/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/tags/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/markdown-syntax.fr/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/markdown-syntax.fa/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/tags/code/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/tags/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/habiba-website/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/habiba-website/about/</loc>
@@ -100,11 +10,9 @@
   </url><url>
     <loc>http://localhost:1313/habiba-website/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/habiba-website/resume/</loc>
+    <loc>http://localhost:1313/habiba-website/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/habiba-website/education/</loc>
-  </url><url>
-    <loc>http://localhost:1313/habiba-website/experience/</loc>
+    <loc>http://localhost:1313/habiba-website/cv/</loc>
   </url><url>
     <loc>http://localhost:1313/habiba-website/projects/</loc>
   </url><url>
@@ -116,8 +24,10 @@
   </url><url>
     <loc>http://localhost:1313/habiba-website/search.fr/</loc>
   </url><url>
-    <loc>http://localhost:1313/habiba-website/skills/</loc>
+    <loc>http://localhost:1313/habiba-website/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/habiba-website/teaching/</loc>
+  </url><url>
+    <loc>http://localhost:1313/habiba-website/</loc>
   </url>
 </urlset>

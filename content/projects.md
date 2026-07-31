@@ -2,67 +2,61 @@
 title: "Projects"
 ---
 
-# Projects
-
-This page highlights my completed and ongoing academic, research, and technical projects.
+My research projects focus on applying Artificial Intelligence, Machine Learning, Computer Vision, and Remote Sensing to solve real-world challenges in agriculture, environmental monitoring, and healthcare.
 
 ---
 
-## Research Projects
+## 🐐 Video-Based Goat Pregnancy Detection and Pregnancy Stage Estimation
 
-### 🐐 Video-Based Goat Pregnancy Detection and Monitoring
+**Status:** Ongoing (M.Sc. Research)
 
-**Status:** Ongoing — M.Sc. Research  
+**Research Area:** Computer Vision • Deep Learning • Video Analytics
 
-**Research Areas:** Deep Learning, Computer Vision, Video Analytics, and Precision Livestock Farming
+### Overview
 
-This research aims to identify pregnant goats from video clips, estimate their pregnancy stage, and continuously monitor their physical and behavioral changes using deep learning and computer vision techniques.
+This research aims to develop an intelligent video-based monitoring system capable of detecting pregnant goats, estimating pregnancy stages, and continuously monitoring livestock through computer vision techniques.
 
-**Key Objectives:**
+### Research Objectives
 
-- Detect and track individual goats from video
-- Classify pregnant and non-pregnant goats
-- Estimate the pregnancy stage
-- Analyze movement, posture, and behavioral patterns
-- Develop a continuous monitoring system
-
-**Technologies:**
-
-`Python` · `OpenCV` · `Deep Learning` · `Object Detection` · `Video Processing`
+- Detect goats automatically from video streams
+- Identify pregnant goats
+- Estimate pregnancy stage
+- Monitor animal behaviour continuously
+- Support precision livestock farming using AI
 
 ---
 
-### 🌿 Satellite-Based Green Cover and Temperature Analysis
+## 🌿 Satellite-Based Green Cover Change and Temperature Prediction
 
-**Status:** Ongoing Research  
+**Status:** Ongoing
 
-**Study Area:** Savar, Dhaka, Bangladesh
+**Research Area:** Remote Sensing • Machine Learning • GIS
 
-This project analyzes vegetation loss and land surface temperature changes using satellite imagery. It also explores machine learning techniques for predicting future temperature patterns.
+### Overview
 
-**Key Objectives:**
+This project investigates vegetation dynamics and land surface temperature using satellite imagery and machine learning techniques to support environmental monitoring and sustainable development.
 
-- Calculate vegetation indices such as NDVI
-- Extract land surface temperature
-- Analyze vegetation and temperature relationships
-- Study monthly and yearly environmental changes
-- Predict future temperature trends
+### Research Objectives
 
-**Technologies:**
-
-`Google Earth Engine` · `Python` · `Landsat` · `Remote Sensing` · `Machine Learning`
+- Green cover change detection
+- NDVI analysis
+- Land Surface Temperature estimation
+- Environmental trend analysis
+- Future temperature prediction
 
 ---
 
-### 🐟 Freshwater Fish Disease Detection
+## 🐟 Freshwater Fish Disease Detection Using Deep Learning
 
-**Status:** Completed and Published  
+**Status:** Published
 
-This project developed an image-based fish disease detection framework using pretrained convolutional neural network models.
+**Research Area:** Deep Learning • Image Classification
 
-Approximately 3,000 images from seven classes were used, including six fish disease classes and one healthy class.
+### Overview
 
-**Models Evaluated:**
+Developed a deep learning framework for automatic freshwater fish disease detection using multiple convolutional neural network architectures.
+
+### Models Evaluated
 
 - VGG16
 - VGG19
@@ -70,44 +64,25 @@ Approximately 3,000 images from seven classes were used, including six fish dise
 - DenseNet
 - MobileNet
 
-DenseNet and MobileNet achieved the highest classification performance.
+**Publication**
 
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PELdJv8AAAAJ&citation_for_view=PELdJv8AAAAJ:u5HHmVD_uO8C" target="_blank" rel="noopener noreferrer">
-View Publication
-</a>
-
----
-
-## Technical Projects
-
-### 💻 Personal Academic Portfolio Website
-
-**Status:** Completed and Continuously Updated  
-
-A responsive personal academic website developed to showcase my teaching experience, research interests, publications, projects, and professional profiles.
-
-**Technologies:**
-
-`Hugo` · `PaperMod` · `HTML` · `CSS` · `Git` · `GitHub Pages`
-
-<a href="https://ummehabiba-7119.github.io/habiba-website/" target="_blank" rel="noopener noreferrer">
-View Live Website
-</a>
-
-&nbsp;&nbsp;|&nbsp;&nbsp;
-
-<a href="https://github.com/UmmeHabiba-7119/habiba-website" target="_blank" rel="noopener noreferrer">
-View Source Code
-</a>
+Google Scholar:
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PELdJv8AAAAJ&citation_for_view=PELdJv8AAAAJ:u5HHmVD_uO8C
 
 ---
 
-## Areas of Interest
+## 💻 Academic Portfolio Website
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Remote Sensing
-- Video Analytics
-- Precision Livestock Farming
-- Artificial Intelligence for Real-World Applications
+**Status:** Completed
+
+**Project Type:** Personal Academic Website
+
+### Overview
+
+Designed and developed a responsive academic portfolio website using Hugo and the PaperMod theme to showcase research, publications, teaching, and professional activities.
+
+**Technologies**
+
+- Hugo
+- PaperMod
+- GitHub Pages

@@ -88,58 +88,40 @@ url="/about/"
 weight=1
 
 [[menu.main]]
-identifier="education"
-name="Education"
-url="/education/"
-weight=2
-
-[[menu.main]]
-identifier="experience"
-name="Experience"
-url="/experience/"
-weight=3
-
-[[menu.main]]
-identifier="skills"
-name="Skills"
-url="/skills/"
-weight=4
-
-[[menu.main]]
 identifier="research"
 name="Research"
 url="/research/"
-weight=5
+weight=2
 
 [[menu.main]]
 identifier = "teaching"
 name = "Teaching"
 pageRef = "/teaching"
-weight = 6
+weight = 3
 
 [[menu.main]]
 identifier="projects"
 name="Projects"
 url="/projects/"
-weight=7
+weight=4
 
 [[menu.main]]
 identifier="publications"
 name = "Publications"
 url = "/publications/"
-weight = 8
+weight = 5
 
 [[menu.main]]
-identifier="resume"
+identifier = "cv"
 name = "CV"
-url = "/resume/"
-weight = 9
+url = "/cv/"
+weight = 60
 
 [[menu.main]]
 identifier="contact"
 name="Contact"
 url="/contact/"
-weight=10
+weight=7
 
 [markup]
   [markup.goldmark]

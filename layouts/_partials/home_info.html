@@ -1,98 +1,125 @@
 {{ if .IsHome }}
 
-<div class="home-info">
+<section class="academic-hero">
 
-    <div class="status-badge">
-        🟢 Available for Research Collaboration
-    </div>
+    <div class="hero-content">
 
-    <h1>Hi, I'm Umme Habiba</h1>
+        <div class="availability-badge">
+            <span class="status-dot"></span>
+            Available for Research Collaboration
+        </div>
 
-    <p class="hero-subtitle">
-        Lecturer, Department of Computer Science & Engineering <br>
-        Daffodil International University
-    </p>
+        <p class="hero-greeting">Hello, I am</p>
 
-    <p class="hero-description">
-        Passionate about Machine Learning, Deep Learning,
-        Computer Vision, Remote Sensing,
-        and AI-driven solutions for real-world problems.
-    </p>
+        <h1 class="hero-title">Umme Habiba</h1>
 
-    <div class="research-interests">
+        <p class="hero-position">
+            Lecturer, Department of Computer Science and Engineering
+        </p>
 
-    <p class="research-interests-title">
-        Research Interests
-    </p>
+        <p class="hero-institution">
+            Daffodil International University, Bangladesh
+        </p>
 
-    <div class="research-chips">
-        <span>Computer Vision</span>
-        <span>Deep Learning</span>
-        <span>Machine Learning</span>
-        <span>Remote Sensing</span>
-        <span>Image Processing</span>
-        <span>Precision Livestock Farming</span>
-    </div>
+        <p class="hero-description">
+            I am an academic and researcher working in Artificial Intelligence,
+            Machine Learning, Deep Learning, Computer Vision, and Remote Sensing.
+            My research focuses on developing intelligent solutions for
+            agriculture, environmental monitoring, healthcare, and other
+            real-world applications.
+        </p>
 
-    </div>
+        <div class="research-tags">
+            <span>Machine Learning</span>
+            <span>Deep Learning</span>
+            <span>Computer Vision</span>
+            <span>Remote Sensing</span>
+        </div>
 
-    <div class="featured-research">
+        <div class="hero-actions">
 
-    <div class="featured-research-label">
-        Featured Research
-    </div>
+            <a class="hero-button hero-button-primary"
+               href="{{ "about/" | relURL }}">
+                About Me
+            </a>
 
-    <h2>
-        Computer Vision-Based Goat Pregnancy Detection
-    </h2>
+            <a class="hero-button hero-button-secondary"
+               href="{{ "research/" | relURL }}">
+                Research
+            </a>
 
-    <p>
-        An ongoing research project focused on identifying pregnant goats
-        and estimating pregnancy stages through continuous video monitoring.
-    </p>
+            <a class="hero-button hero-button-secondary"
+               href="{{ "publications/" | relURL }}">
+                Publications
+            </a>
 
-    <div class="featured-research-meta">
-        <span class="research-status">● Ongoing</span>
-        <span>Python</span>
-        <span>OpenCV</span>
-        <span>Deep Learning</span>
-    </div>
+            <a class="hero-button hero-button-secondary"
+               href="{{ "contact/" | relURL }}">
+                Contact
+            </a>
 
-    <a href="{{ "research/" | relURL }}" class="featured-research-link">
-        Explore Research →
-    </a>
+        </div>
 
-    </div>
-
-</div>
-
-<section class="stats-section">
-
-    <div class="stat-card">
-        <h3>🎓</h3>
-        <h2>Lecturer</h2>
-        <p>Daffodil International University</p>
-    </div>
-
-    <div class="stat-card">
-        <h3>🔬</h3>
-        <h2>Research</h2>
-        <p>Machine Learning & Computer Vision</p>
-    </div>
-
-    <div class="stat-card">
-        <h3>💻</h3>
-        <h2>Projects</h2>
-        <p>5+ Academic Projects</p>
-    </div>
-
-    <div class="stat-card">
-        <h3>📚</h3>
-        <h2>Publications</h2>
-        <p>Coming Soon</p>
     </div>
 
 </section>
 
+<section class="academic-highlights">
+
+    <article class="highlight-card">
+
+        <div class="highlight-icon">🎓</div>
+
+        <h2>Teaching</h2>
+
+        <p>
+            Lecturer in Computer Science and Engineering with interests in
+            AI, machine learning, compiler design, cloud computing, and
+            emerging technologies.
+        </p>
+
+        <a href="{{ "teaching/" | relURL }}">
+            Explore Teaching →
+        </a>
+
+    </article>
+
+    <article class="highlight-card">
+
+        <div class="highlight-icon">🔬</div>
+
+        <h2>Research</h2>
+
+        <p>
+            Application-oriented research in computer vision, intelligent
+            monitoring, remote sensing, agriculture, and environmental
+            analysis.
+        </p>
+
+        <a href="{{ "research/" | relURL }}">
+            Explore Research →
+        </a>
+
+    </article>
+
+    <article class="highlight-card">
+
+        <div class="highlight-icon">📚</div>
+
+        <h2>Publications</h2>
+
+        <p>
+            Scholarly work involving deep learning, image classification,
+            disease detection, and intelligent systems for practical
+            applications.
+        </p>
+
+        <a href="{{ "publications/" | relURL }}">
+            View Publications →
+        </a>
+
+    </article>
+
+</section>
 
 {{ end }}
