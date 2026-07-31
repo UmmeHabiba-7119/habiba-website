@@ -633,3 +633,30 @@ main.main {
 .featured-research-link:hover {
     text-decoration: underline;
 }
+
+/* CV Action Buttons */
+
+.cv-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin: 25px 0 35px;
+}
+
+.cv-button {
+    display: inline-block;
+    padding: 12px 22px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--entry);
+    color: var(--primary);
+    font-weight: 600;
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cv-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+    text-decoration: none;
+}

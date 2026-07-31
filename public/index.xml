@@ -207,29 +207,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/habiba-website/contact/</guid>
       <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-&lt;p&gt;I am always interested in research collaboration and academic discussions.&lt;/p&gt;
-&lt;h3 id=&#34;email&#34;&gt;Email&lt;/h3&gt;
+&lt;p&gt;I am always interested in research collaboration, academic discussions, and research partnerships. Feel free to reach out through any of the platforms below.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-email&#34;&gt;📧 Email&lt;/h3&gt;
 &lt;a href=&#34;mailto:habiba.cse@diu.edu.bd&#34;&gt;
 habiba.cse@diu.edu.bd
 &lt;/a&gt;
-&lt;h3 id=&#34;office&#34;&gt;Office&lt;/h3&gt;
-&lt;p&gt;Department of Computer Science and Engineering&lt;/p&gt;
-&lt;p&gt;Daffodil International University&lt;/p&gt;
-&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Machine Learning&lt;/li&gt;
-&lt;li&gt;Deep Learning&lt;/li&gt;
-&lt;li&gt;Computer Vision&lt;/li&gt;
-&lt;li&gt;Remote Sensing&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-github&#34;&gt;🌐 GitHub&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-office&#34;&gt;🏢 Office&lt;/h3&gt;
+&lt;p&gt;Department of Computer Science and Engineering&lt;br&gt;
+Daffodil International University&lt;br&gt;
+705-KT, Daffodil Smart City, Birulia, Savar, Dhaka, Bangladesh&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-academic-profiles&#34;&gt;🌐 Academic Profiles&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;🎓 Google Scholar&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?view_op=list_works&amp;hl=en&amp;user=PELdJv8AAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+View Google Scholar Profile
+&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;🔬 ResearchGate&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.researchgate.net/profile/Umme-Habiba-112?ev=hdr_xprf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+View ResearchGate Profile
+&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-professional-profiles&#34;&gt;💻 Professional Profiles&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;🌐 GitHub&lt;/strong&gt;&lt;br&gt;
 &lt;a href=&#34;https://github.com/UmmeHabiba-7119&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-GitHub
-&lt;/a&gt;
-&lt;h3 id=&#34;-linkedin&#34;&gt;💼 LinkedIn&lt;/h3&gt;
-&lt;a href=&#34;https://linkedin.com/in/umme-habiba-5087b5190&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-LinkedIn
-&lt;/a&gt;</description>
+github.com/UmmeHabiba-7119
+&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
@@ -260,6 +265,30 @@ LinkedIn
 &lt;/ul&gt;
 &lt;h2 id=&#34;career-goal&#34;&gt;Career Goal&lt;/h2&gt;
 &lt;p&gt;My goal is to conduct impactful research in Artificial Intelligence and Computer Vision while contributing to quality education.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/habiba-website/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/habiba-website/resume/</guid>
+      <description>&lt;h1 id=&#34;curriculum-vitae&#34;&gt;Curriculum Vitae&lt;/h1&gt;
+&lt;p&gt;I am a Lecturer in the Department of Computer Science and Engineering at Daffodil International University. My academic and research interests include Machine Learning, Deep Learning, Computer Vision, Remote Sensing, and Artificial Intelligence.&lt;/p&gt;
+&lt;div class=&#34;cv-actions&#34;&gt;
+&lt;a class=&#34;cv-button&#34; href=&#34;http://localhost:1313/habiba-website/files/Umme-Habiba-CV.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+📄 View CV
+&lt;/a&gt;
+&lt;a class=&#34;cv-button&#34; href=&#34;http://localhost:1313/habiba-website/files/Umme-Habiba-CV.pdf&#34; download&gt;
+⬇ Download CV
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h2&gt;
+&lt;p&gt;Lecturer and researcher with interests in Machine Learning, Deep Learning, Computer Vision, Remote Sensing, and AI-driven solutions for real-world problems.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;current-position&#34;&gt;Current Position&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Lecturer&lt;/strong&gt;&lt;br&gt;
+Department of Computer Science and Engineering&lt;br&gt;
+Daffodil International University&lt;/p&gt;</description>
     </item>
     <item>
       <title>Education</title>
@@ -300,18 +329,15 @@ LinkedIn
       <link>http://localhost:1313/habiba-website/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/habiba-website/projects/</guid>
-      <description>&lt;h1 id=&#34;academic-projects&#34;&gt;Academic Projects&lt;/h1&gt;
-&lt;h2 id=&#34;smart-goat-pregnancy-detection-using-deep-learning&#34;&gt;Smart Goat Pregnancy Detection using Deep Learning&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; Python, OpenCV, YOLO, Deep Learning&lt;/p&gt;
-&lt;p&gt;A Computer Vision-based system that automatically detects goat pregnancy and estimates the pregnancy stage from continuous video monitoring.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;p&gt;This page highlights my completed and ongoing academic, research, and technical projects.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;satellite-image-analysis-using-google-earth-engine&#34;&gt;Satellite Image Analysis using Google Earth Engine&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; Google Earth Engine, Python&lt;/p&gt;
-&lt;p&gt;Analyzed vegetation changes and Land Surface Temperature (LST) using satellite imagery and remote sensing techniques.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;personal-academic-website&#34;&gt;Personal Academic Website&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; Hugo, GitHub Pages&lt;/p&gt;
-&lt;p&gt;Designed and developed a responsive academic portfolio website to showcase research, publications, projects, and teaching activities.&lt;/p&gt;</description>
+&lt;h2 id=&#34;research-projects&#34;&gt;Research Projects&lt;/h2&gt;
+&lt;h3 id=&#34;-video-based-goat-pregnancy-detection-and-monitoring&#34;&gt;🐐 Video-Based Goat Pregnancy Detection and Monitoring&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing — M.Sc. Research&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research Areas:&lt;/strong&gt; Deep Learning, Computer Vision, Video Analytics, and Precision Livestock Farming&lt;/p&gt;
+&lt;p&gt;This research aims to identify pregnant goats from video clips, estimate their pregnancy stage, and continuously monitor their physical and behavioral changes using deep learning and computer vision techniques.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Objectives:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
@@ -319,16 +345,13 @@ LinkedIn
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/habiba-website/publications/</guid>
       <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
+&lt;p&gt;My research interests include &lt;strong&gt;Machine Learning, Deep Learning, Computer Vision, Remote Sensing, and Artificial Intelligence&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;journal-articles&#34;&gt;Journal Articles&lt;/h2&gt;
-&lt;p&gt;No publications yet.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;conference-papers&#34;&gt;Conference Papers&lt;/h2&gt;
-&lt;p&gt;Coming Soon.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;thesis&#34;&gt;Thesis&lt;/h2&gt;
-&lt;p&gt;M.Sc. Research (Ongoing)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Computer Vision-based Goat Pregnancy Detection using Deep Learning&lt;/p&gt;</description>
+&lt;h3 id=&#34;fresh-fish-disease-detection-in-aquaculture-leveraging-cnn-models-for-accurate-diagnosis&#34;&gt;Fresh Fish Disease Detection in Aquaculture: Leveraging CNN Models for Accurate Diagnosis&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Umme Habiba, et al.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Publication Type:&lt;/strong&gt; Journal Article&lt;/p&gt;
+&lt;p&gt;Aquatic products, especially freshwater fish, play an important role in meeting global protein demand. Increasing fish production is therefore essential. However, the aquaculture industry faces significant challenges due to various fish diseases. This research applies convolutional neural network models to support accurate and efficient fish disease diagnosis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
@@ -336,8 +359,6 @@ LinkedIn
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/habiba-website/research/</guid>
       <description>&lt;h1 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h1&gt;
-&lt;p&gt;My research focuses on Artificial Intelligence and intelligent systems for solving real-world problems.&lt;/p&gt;
-&lt;h2 id=&#34;research-areas&#34;&gt;Research Areas&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Machine Learning&lt;/li&gt;
 &lt;li&gt;Deep Learning&lt;/li&gt;
@@ -346,11 +367,14 @@ LinkedIn
 &lt;li&gt;Satellite Image Processing&lt;/li&gt;
 &lt;li&gt;Pattern Recognition&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;current-research&#34;&gt;Current Research&lt;/h2&gt;
-&lt;h3 id=&#34;smart-goat-pregnancy-detection&#34;&gt;Smart Goat Pregnancy Detection&lt;/h3&gt;
-&lt;p&gt;Developing a Computer Vision and Deep Learning based system for automatic pregnancy detection and pregnancy stage estimation in goats through continuous video monitoring.&lt;/p&gt;
-&lt;h3 id=&#34;satellite-image-analysis&#34;&gt;Satellite Image Analysis&lt;/h3&gt;
-&lt;p&gt;Studying vegetation changes and Land Surface Temperature (LST) using Google Earth Engine and remote sensing data.&lt;/p&gt;</description>
+&lt;h2 id=&#34;future-research-goals&#34;&gt;Future Research Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Explainable AI (XAI)&lt;/li&gt;
+&lt;li&gt;Large Language Model (LLM)&lt;/li&gt;
+&lt;li&gt;Medical Image Analysis&lt;/li&gt;
+&lt;li&gt;Precision Agriculture&lt;/li&gt;
+&lt;li&gt;AI for Sustainable Development&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Skills</title>
@@ -386,17 +410,24 @@ LinkedIn
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/habiba-website/teaching/</guid>
       <description>&lt;h1 id=&#34;teaching&#34;&gt;Teaching&lt;/h1&gt;
-&lt;p&gt;I am currently serving as a Lecturer in the Department of Computer Science and Engineering at Daffodil International University.&lt;/p&gt;
+&lt;p&gt;I am currently serving as a Lecturer in the Department of Computer Science and Engineering at Daffodil International University. My teaching interests include programming, compiler design, artificial intelligence, machine learning, deep learning, cloud computing, and related computer science subjects.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;courses-taught&#34;&gt;Courses Taught&lt;/h2&gt;
+&lt;h3 id=&#34;compiler-design&#34;&gt;Compiler Design&lt;/h3&gt;
+&lt;p&gt;Topics include:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Compiler Design&lt;/li&gt;
-&lt;li&gt;Data Structures&lt;/li&gt;
-&lt;li&gt;Object-Oriented Programming&lt;/li&gt;
-&lt;li&gt;Database Management Systems&lt;/li&gt;
-&lt;li&gt;Computer Fundamentals&lt;/li&gt;
+&lt;li&gt;Phases of a Compiler&lt;/li&gt;
+&lt;li&gt;Lexical Analysis&lt;/li&gt;
+&lt;li&gt;Syntax Analysis&lt;/li&gt;
+&lt;li&gt;FIRST and FOLLOW Sets&lt;/li&gt;
+&lt;li&gt;LL(1) Parsing&lt;/li&gt;
+&lt;li&gt;LR Parsing&lt;/li&gt;
+&lt;li&gt;Intermediate Code Generation&lt;/li&gt;
+&lt;li&gt;Code Optimization&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;teaching-philosophy&#34;&gt;Teaching Philosophy&lt;/h2&gt;
-&lt;p&gt;I believe in interactive, research-oriented, and practical learning that helps students develop strong analytical and problem-solving skills.&lt;/p&gt;</description>
+&lt;hr&gt;
+&lt;h3 id=&#34;deep-learning&#34;&gt;Deep Learning&lt;/h3&gt;
+&lt;p&gt;Topics include:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

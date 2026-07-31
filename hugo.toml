@@ -59,6 +59,14 @@ url = "https://linkedin.com/in/umme-habiba-5087b5190"
 name = "email"
 url = "mailto:habiba.cse@diu.edu.bd"
 
+[[params.socialIcons]]
+name = "GoogleScholar"
+url = "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=PELdJv8AAAAJ"
+
+[[params.socialIcons]]
+name = "ResearchGate"
+url = "https://www.researchgate.net/profile/Umme-Habiba-112?ev=hdr_xprf"
+
 ShowReadingTime = false
 ShowBreadCrumbs = false
 ShowPostNavLinks = false
@@ -122,10 +130,16 @@ url = "/publications/"
 weight = 8
 
 [[menu.main]]
+identifier="resume"
+name = "CV"
+url = "/resume/"
+weight = 9
+
+[[menu.main]]
 identifier="contact"
 name="Contact"
 url="/contact/"
-weight=9
+weight=10
 
 [markup]
   [markup.goldmark]
