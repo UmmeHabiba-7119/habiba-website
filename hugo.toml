@@ -31,22 +31,6 @@ Machine Learning • Deep Learning • Computer Vision • Remote Sensing
 imageUrl = "images/profile.jpg"
 imageTitle = "Umme Habiba"
 
-[[params.profileMode.buttons]]
-name = "👩 About Me"
-url = "about"
-
-[[params.profileMode.buttons]]
-name = "📂 Projects"
-url = "projects"
-
-[[params.profileMode.buttons]]
-name = "🔬 Research"
-url = "research"
-
-[[params.profileMode.buttons]]
-name = "📄 Download CV"
-url = "files/Umme_Habiba_CV_2026.pdf"
-
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/UmmeHabiba-7119"

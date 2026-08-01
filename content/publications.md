@@ -46,12 +46,3 @@ Developing a computer vision-based system for automatic pregnancy detection, pre
 Investigating vegetation dynamics and land surface temperature using satellite imagery, remote sensing, and machine learning techniques.
 
 ---
-
-## Research Profiles
-
-For a complete and updated list of my publications, please visit:
-
-- Google Scholar
-- ResearchGate
-- GitHub
-- LinkedIn

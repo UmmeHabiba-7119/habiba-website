@@ -34,6 +34,43 @@ Currently pursuing postgraduate studies with a focus on Deep Learning, Computer 
 
 ---
 
+## Professional Experience
+
+### Lecturer
+
+**Department of Computer Science and Engineering**  
+**Daffodil International University**  
+**July 2023 – Present**
+
+Currently serving as a Lecturer, where I teach undergraduate courses, mentor students, supervise academic projects, and conduct research in Artificial Intelligence, Computer Vision, and related areas.
+
+---
+
+### Teaching Assistant
+
+**Department of Computer Science and Engineering**  
+**Daffodil International University**  
+**March 2022 – December 2022**
+
+Supported course delivery, laboratory sessions, student mentoring, examination activities, and academic administration.
+
+**Courses Assisted**
+
+- Database Management System
+- Software Engineering
+- Information Security
+
+---
+
+### Software Engineering Intern
+
+**Leotech BD**  
+**October 2020 – November 2020**
+
+Completed an internship focused on web application development using PHP, Laravel Framework, and MySQL while gaining practical software development experience.
+
+---
+
 ## Academic Interests
 
 My academic interests include:

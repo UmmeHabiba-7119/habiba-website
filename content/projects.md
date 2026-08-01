@@ -2,87 +2,76 @@
 title: "Projects"
 ---
 
-My research projects focus on applying Artificial Intelligence, Machine Learning, Computer Vision, and Remote Sensing to solve real-world challenges in agriculture, environmental monitoring, and healthcare.
+My projects focus on applying Artificial Intelligence, Computer Vision, Machine Learning, and Software Engineering to solve practical problems in agriculture, environmental monitoring, healthcare, and education.
 
 ---
 
-## 🐐 Video-Based Goat Pregnancy Detection and Pregnancy Stage Estimation
+## Software Projects
 
-**Status:** Ongoing (M.Sc. Research)
+### 🚦 Automatic Traffic System Using Google API
 
-**Research Area:** Computer Vision • Deep Learning • Video Analytics
+**Technologies:** Java Swing • MySQL • Google API
 
-### Overview
-
-This research aims to develop an intelligent video-based monitoring system capable of detecting pregnant goats, estimating pregnancy stages, and continuously monitoring livestock through computer vision techniques.
-
-### Research Objectives
-
-- Detect goats automatically from video streams
-- Identify pregnant goats
-- Estimate pregnancy stage
-- Monitor animal behaviour continuously
-- Support precision livestock farming using AI
+Designed a smart traffic control system that dynamically adjusts traffic signal timing using live traffic data obtained through Google API.
 
 ---
 
-## 🌿 Satellite-Based Green Cover Change and Temperature Prediction
+### 🧳 Tourism Guidance System
 
-**Status:** Ongoing
+**Technologies:** PHP • MySQL
 
-**Research Area:** Remote Sensing • Machine Learning • GIS
-
-### Overview
-
-This project investigates vegetation dynamics and land surface temperature using satellite imagery and machine learning techniques to support environmental monitoring and sustainable development.
-
-### Research Objectives
-
-- Green cover change detection
-- NDVI analysis
-- Land Surface Temperature estimation
-- Environmental trend analysis
-- Future temperature prediction
+Developed a web-based tourism information system that provides visitors with travel guidance, accommodation, transportation, and destination information.
 
 ---
 
-## 🐟 Freshwater Fish Disease Detection Using Deep Learning
+### 💬 Chatting System
 
-**Status:** Published
+**Technologies:** Java Swing • MySQL
 
-**Research Area:** Deep Learning • Image Classification
-
-### Overview
-
-Developed a deep learning framework for automatic freshwater fish disease detection using multiple convolutional neural network architectures.
-
-### Models Evaluated
-
-- VGG16
-- VGG19
-- InceptionV3
-- DenseNet
-- MobileNet
-
-**Publication**
-
-Google Scholar:
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PELdJv8AAAAJ&citation_for_view=PELdJv8AAAAJ:u5HHmVD_uO8C
+Implemented a desktop-based chatting application with user authentication and database-supported messaging functionality.
 
 ---
 
-## 💻 Academic Portfolio Website
+### 🧮 Math Learning Tool
 
-**Status:** Completed
+**Technology:** Java
 
-**Project Type:** Personal Academic Website
+Developed an interactive educational application to help students practice basic arithmetic operations through randomly generated mathematical exercises.
 
-### Overview
+---
 
-Designed and developed a responsive academic portfolio website using Hugo and the PaperMod theme to showcase research, publications, teaching, and professional activities.
+## Hardware Projects
 
-**Technologies**
+### 🤖 Robo Guard
 
-- Hugo
-- PaperMod
-- GitHub Pages
+**Technology:** Arduino
+
+Designed a security robot capable of detecting nearby objects using ultrasonic sensors and providing warning and alert mechanisms through LEDs and a buzzer.
+
+---
+
+### ❤️ Simple Health Checkup Device
+
+**Technology:** Arduino
+
+Built a basic health monitoring system capable of measuring body temperature and heart rate using integrated sensors.
+
+---
+
+## Graphics Project
+
+### 🌧️ A Rainy Day
+
+**Technologies:** C • OpenGL
+
+Developed a 2D graphical animation demonstrating weather changes and human activities using OpenGL graphics programming.
+
+---
+
+## Academic Website
+
+### 💻 Personal Academic Portfolio Website
+
+**Technologies:** Hugo • PaperMod • GitHub Pages
+
+Designed and developed a responsive academic website to showcase teaching activities, research, publications, projects, and professional achievements.
