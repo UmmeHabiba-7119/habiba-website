@@ -96,12 +96,6 @@ url = "/publications/"
 weight = 5
 
 [[menu.main]]
-identifier = "cv"
-name = "CV"
-url = "/cv/"
-weight = 60
-
-[[menu.main]]
 identifier="contact"
 name="Contact"
 url="/contact/"
